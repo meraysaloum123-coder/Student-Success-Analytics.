@@ -1,0 +1,2668 @@
+ReviewID,StudentID,CourseID,Rating,Comment
+R000001,S0001,C039,2,Poor explanations.
+R000002,S0002,C016,5,Loved this course.
+R000003,S0002,C002,4,Could be improved.
+R000004,S0002,C024,2,Poor explanations.
+R000005,S0002,C026,1,Not what I expected.
+R000006,S0003,C001,3,Could be improved.
+R000007,S0003,C026,1,Not recommended.
+R000008,S0003,C024,3,Some lessons were useful.
+R000009,S0004,C016,2,Poor explanations.
+R000010,S0004,C022,2,Poor explanations.
+R000011,S0004,C034,1,Too difficult.
+R000012,S0004,C017,3,Content was okay.
+R000013,S0005,C032,5,Highly recommended.
+R000014,S0005,C024,3,Content was okay.
+R000015,S0006,C013,3,Useful but needs updates.
+R000016,S0006,C007,1,Too difficult.
+R000017,S0006,C011,1,Content is outdated.
+R000018,S0007,C037,1,Poor explanations.
+R000019,S0007,C032,3,Some lessons were useful.
+R000020,S0007,C023,2,Very confusing.
+R000021,S0007,C022,3,Good course.
+R000022,S0007,C020,2,Not recommended.
+R000023,S0008,C015,1,Not what I expected.
+R000024,S0008,C032,1,Poor explanations.
+R000025,S0008,C009,2,Poor explanations.
+R000026,S0009,C035,1,I couldn't finish it.
+R000027,S0009,C017,4,Could be improved.
+R000028,S0009,C009,5,Great instructor.
+R000029,S0010,C019,2,Too difficult.
+R000030,S0010,C022,5,Easy to understand.
+R000031,S0010,C005,1,Not recommended.
+R000032,S0010,C009,4,Loved this course.
+R000033,S0010,C039,2,I couldn't finish it.
+R000034,S0011,C034,5,Great instructor.
+R000035,S0011,C007,5,Amazing explanations.
+R000036,S0011,C029,3,Good course.
+R000037,S0011,C026,3,Good course.
+R000038,S0011,C040,4,Fantastic content.
+R000039,S0012,C036,4,Loved this course.
+R000040,S0013,C026,3,Average experience.
+R000041,S0013,C040,1,Poor explanations.
+R000042,S0013,C007,1,Very confusing.
+R000043,S0014,C004,4,Very informative.
+R000044,S0014,C007,2,Not recommended.
+R000045,S0014,C027,1,Not recommended.
+R000046,S0015,C039,3,Helpful overall.
+R000047,S0015,C028,4,Practical examples.
+R000048,S0016,C040,5,Practical examples.
+R000049,S0016,C039,4,Great instructor.
+R000050,S0016,C017,2,Needs more examples.
+R000051,S0016,C004,4,Highly recommended.
+R000052,S0017,C025,5,Amazing explanations.
+R000053,S0017,C008,3,Helpful overall.
+R000054,S0017,C032,1,Not what I expected.
+R000055,S0018,C038,1,I couldn't finish it.
+R000056,S0018,C032,4,Amazing explanations.
+R000057,S0019,C003,3,Not bad.
+R000058,S0019,C026,1,I couldn't finish it.
+R000059,S0020,C001,3,Useful but needs updates.
+R000060,S0020,C040,1,Not recommended.
+R000061,S0020,C015,4,Average experience.
+R000062,S0021,C001,3,Good course.
+R000063,S0021,C030,4,Could be improved.
+R000064,S0021,C029,2,Poor explanations.
+R000065,S0022,C034,2,Very confusing.
+R000066,S0022,C037,2,Not what I expected.
+R000067,S0022,C008,2,Very confusing.
+R000068,S0023,C011,2,Too difficult.
+R000069,S0023,C030,1,Not what I expected.
+R000070,S0024,C009,3,Content was okay.
+R000071,S0024,C038,2,Very confusing.
+R000072,S0024,C034,2,Not what I expected.
+R000073,S0025,C034,1,Not recommended.
+R000074,S0025,C038,3,Helpful overall.
+R000075,S0026,C023,4,Highly recommended.
+R000076,S0026,C012,1,I couldn't finish it.
+R000077,S0027,C019,1,Not recommended.
+R000078,S0027,C023,3,Some lessons were useful.
+R000079,S0028,C021,4,Highly recommended.
+R000080,S0028,C013,3,Content was okay.
+R000081,S0029,C005,1,Very confusing.
+R000082,S0030,C013,2,Not recommended.
+R000083,S0030,C002,4,Content was okay.
+R000084,S0031,C029,4,Easy to understand.
+R000085,S0031,C009,4,Excellent course!
+R000086,S0031,C037,3,Good course.
+R000087,S0032,C003,2,Content is outdated.
+R000088,S0032,C002,1,Not recommended.
+R000089,S0032,C018,3,Content was okay.
+R000090,S0033,C027,2,Content is outdated.
+R000091,S0034,C022,1,Poor explanations.
+R000092,S0035,C039,1,Not recommended.
+R000093,S0035,C001,3,Some lessons were useful.
+R000094,S0035,C032,2,Too difficult.
+R000095,S0036,C015,4,Useful but needs updates.
+R000096,S0036,C033,2,Content is outdated.
+R000097,S0036,C004,4,Could be improved.
+R000098,S0037,C030,5,Practical examples.
+R000099,S0037,C002,2,Poor explanations.
+R000100,S0037,C037,2,Very confusing.
+R000101,S0038,C040,3,Content was okay.
+R000102,S0038,C002,3,Good course.
+R000103,S0039,C010,3,Good course.
+R000104,S0039,C004,3,Helpful overall.
+R000105,S0039,C014,2,I couldn't finish it.
+R000106,S0040,C002,2,Needs more examples.
+R000107,S0040,C003,4,Practical examples.
+R000108,S0041,C037,3,Could be improved.
+R000109,S0041,C032,3,Not bad.
+R000110,S0041,C024,2,Content is outdated.
+R000111,S0042,C040,3,Average experience.
+R000112,S0042,C013,1,Not what I expected.
+R000113,S0043,C015,4,Easy to understand.
+R000114,S0043,C025,5,Loved this course.
+R000115,S0043,C006,1,Too difficult.
+R000116,S0044,C013,5,Fantastic content.
+R000117,S0044,C030,2,Not what I expected.
+R000118,S0044,C024,3,Content was okay.
+R000119,S0044,C019,4,Easy to understand.
+R000120,S0045,C001,4,Could be improved.
+R000121,S0045,C034,4,Useful but needs updates.
+R000122,S0045,C014,3,Not bad.
+R000123,S0045,C025,5,Amazing explanations.
+R000124,S0046,C025,3,Content was okay.
+R000125,S0046,C040,4,Useful but needs updates.
+R000126,S0046,C001,4,Could be improved.
+R000127,S0046,C007,1,Content is outdated.
+R000128,S0047,C030,5,Loved this course.
+R000129,S0048,C017,3,Good course.
+R000130,S0048,C010,1,Content is outdated.
+R000131,S0048,C031,2,Content is outdated.
+R000132,S0048,C025,4,Not bad.
+R000133,S0049,C005,4,Very informative.
+R000134,S0049,C007,4,Good course.
+R000135,S0050,C023,5,Very informative.
+R000136,S0050,C033,4,Not bad.
+R000137,S0050,C039,1,Content is outdated.
+R000138,S0050,C040,3,Helpful overall.
+R000139,S0051,C022,3,Average experience.
+R000140,S0051,C013,1,Needs more examples.
+R000141,S0051,C016,2,Needs more examples.
+R000142,S0051,C024,1,Poor explanations.
+R000143,S0052,C032,4,Highly recommended.
+R000144,S0052,C015,2,Too difficult.
+R000145,S0052,C016,5,Worth every minute.
+R000146,S0052,C011,3,Could be improved.
+R000147,S0052,C014,2,Not recommended.
+R000148,S0053,C028,5,Loved this course.
+R000149,S0053,C010,1,I couldn't finish it.
+R000150,S0054,C013,2,Not recommended.
+R000151,S0055,C005,3,Helpful overall.
+R000152,S0055,C011,2,Not recommended.
+R000153,S0056,C010,4,Could be improved.
+R000154,S0056,C017,5,Worth every minute.
+R000155,S0056,C003,3,Helpful overall.
+R000156,S0057,C021,2,Not recommended.
+R000157,S0057,C020,4,Content was okay.
+R000158,S0057,C016,1,Too difficult.
+R000159,S0057,C025,1,Needs more examples.
+R000160,S0058,C005,5,Great instructor.
+R000161,S0058,C002,5,Great instructor.
+R000162,S0058,C035,3,Could be improved.
+R000163,S0059,C022,3,Useful but needs updates.
+R000164,S0059,C008,5,Excellent course!
+R000165,S0059,C026,3,Good course.
+R000166,S0060,C001,2,Too difficult.
+R000167,S0060,C019,1,Content is outdated.
+R000168,S0060,C016,3,Useful but needs updates.
+R000169,S0060,C033,5,Excellent course!
+R000170,S0061,C017,3,Not bad.
+R000171,S0061,C036,4,Average experience.
+R000172,S0061,C019,1,I couldn't finish it.
+R000173,S0062,C039,2,I couldn't finish it.
+R000174,S0062,C009,5,Fantastic content.
+R000175,S0062,C019,2,I couldn't finish it.
+R000176,S0062,C031,5,Practical examples.
+R000177,S0063,C024,2,Needs more examples.
+R000178,S0063,C023,1,I couldn't finish it.
+R000179,S0063,C010,5,Fantastic content.
+R000180,S0064,C008,4,Loved this course.
+R000181,S0065,C022,1,Poor explanations.
+R000182,S0065,C026,3,Content was okay.
+R000183,S0066,C015,2,Too difficult.
+R000184,S0066,C020,5,Worth every minute.
+R000185,S0067,C029,4,Worth every minute.
+R000186,S0067,C025,2,I couldn't finish it.
+R000187,S0067,C023,3,Useful but needs updates.
+R000188,S0068,C037,4,Loved this course.
+R000189,S0068,C034,4,Loved this course.
+R000190,S0068,C031,2,Content is outdated.
+R000191,S0068,C019,1,Not what I expected.
+R000192,S0069,C023,5,Very informative.
+R000193,S0070,C018,2,I couldn't finish it.
+R000194,S0070,C002,1,Content is outdated.
+R000195,S0071,C030,4,Could be improved.
+R000196,S0071,C024,5,Excellent course!
+R000197,S0071,C006,1,Needs more examples.
+R000198,S0072,C008,2,Poor explanations.
+R000199,S0072,C029,3,Not bad.
+R000200,S0072,C032,1,Content is outdated.
+R000201,S0072,C040,4,Great instructor.
+R000202,S0073,C028,2,Too difficult.
+R000203,S0073,C018,4,Average experience.
+R000204,S0073,C010,3,Some lessons were useful.
+R000205,S0073,C004,3,Not bad.
+R000206,S0074,C016,5,Easy to understand.
+R000207,S0074,C012,1,Poor explanations.
+R000208,S0075,C004,2,Needs more examples.
+R000209,S0075,C008,2,Too difficult.
+R000210,S0075,C003,5,Excellent course!
+R000211,S0075,C032,2,Too difficult.
+R000212,S0075,C011,1,Content is outdated.
+R000213,S0076,C007,1,Needs more examples.
+R000214,S0076,C032,1,I couldn't finish it.
+R000215,S0076,C006,3,Content was okay.
+R000216,S0077,C003,1,Very confusing.
+R000217,S0077,C011,2,Needs more examples.
+R000218,S0078,C004,2,Poor explanations.
+R000219,S0079,C015,4,Very informative.
+R000220,S0079,C003,5,Fantastic content.
+R000221,S0080,C008,1,Not what I expected.
+R000222,S0080,C023,2,Needs more examples.
+R000223,S0081,C011,5,Very informative.
+R000224,S0081,C040,2,Not what I expected.
+R000225,S0081,C031,2,Poor explanations.
+R000226,S0081,C036,3,Some lessons were useful.
+R000227,S0081,C016,2,Poor explanations.
+R000228,S0082,C035,1,Content is outdated.
+R000229,S0082,C017,1,Not what I expected.
+R000230,S0083,C029,5,Amazing explanations.
+R000231,S0083,C021,4,Could be improved.
+R000232,S0083,C032,4,Excellent course!
+R000233,S0084,C001,5,Practical examples.
+R000234,S0084,C017,3,Not bad.
+R000235,S0084,C016,1,Not what I expected.
+R000236,S0084,C026,1,Too difficult.
+R000237,S0085,C032,3,Good course.
+R000238,S0085,C036,3,Good course.
+R000239,S0086,C010,5,Highly recommended.
+R000240,S0086,C002,1,Poor explanations.
+R000241,S0087,C037,2,Content is outdated.
+R000242,S0087,C032,1,Needs more examples.
+R000243,S0087,C036,2,Not recommended.
+R000244,S0088,C030,4,Easy to understand.
+R000245,S0088,C011,3,Could be improved.
+R000246,S0088,C015,3,Average experience.
+R000247,S0088,C004,1,Too difficult.
+R000248,S0088,C010,4,Average experience.
+R000249,S0089,C021,3,Useful but needs updates.
+R000250,S0089,C014,2,Needs more examples.
+R000251,S0090,C024,4,Worth every minute.
+R000252,S0090,C009,2,Too difficult.
+R000253,S0090,C026,2,Too difficult.
+R000254,S0090,C040,1,Content is outdated.
+R000255,S0092,C030,1,Poor explanations.
+R000256,S0092,C027,1,Content is outdated.
+R000257,S0092,C038,2,Very confusing.
+R000258,S0092,C033,2,Too difficult.
+R000259,S0093,C030,3,Useful but needs updates.
+R000260,S0093,C027,3,Good course.
+R000261,S0094,C025,3,Average experience.
+R000262,S0094,C015,3,Useful but needs updates.
+R000263,S0094,C034,5,Great instructor.
+R000264,S0094,C028,3,Content was okay.
+R000265,S0095,C023,5,Worth every minute.
+R000266,S0095,C025,5,Fantastic content.
+R000267,S0095,C007,2,Poor explanations.
+R000268,S0095,C002,2,Content is outdated.
+R000269,S0096,C013,2,I couldn't finish it.
+R000270,S0096,C009,3,Could be improved.
+R000271,S0097,C016,5,Worth every minute.
+R000272,S0097,C015,3,Some lessons were useful.
+R000273,S0097,C008,3,Some lessons were useful.
+R000274,S0098,C011,4,Practical examples.
+R000275,S0098,C003,2,Not recommended.
+R000276,S0098,C020,3,Not bad.
+R000277,S0098,C026,5,Practical examples.
+R000278,S0099,C020,1,Content is outdated.
+R000279,S0099,C019,1,Not what I expected.
+R000280,S0099,C030,4,Not bad.
+R000281,S0099,C008,1,I couldn't finish it.
+R000282,S0099,C029,2,Very confusing.
+R000283,S0100,C018,3,Not bad.
+R000284,S0100,C024,1,I couldn't finish it.
+R000285,S0101,C006,4,Good course.
+R000286,S0101,C008,2,Too difficult.
+R000287,S0102,C021,4,Highly recommended.
+R000288,S0102,C036,3,Not bad.
+R000289,S0103,C038,4,Highly recommended.
+R000290,S0103,C027,3,Not bad.
+R000291,S0103,C017,4,Good course.
+R000292,S0103,C003,1,Too difficult.
+R000293,S0104,C031,2,Poor explanations.
+R000294,S0104,C024,1,Very confusing.
+R000295,S0104,C002,4,Excellent course!
+R000296,S0105,C023,4,Practical examples.
+R000297,S0106,C018,4,Very informative.
+R000298,S0107,C012,5,Very informative.
+R000299,S0107,C035,2,Poor explanations.
+R000300,S0107,C002,2,Poor explanations.
+R000301,S0107,C009,1,Poor explanations.
+R000302,S0108,C024,2,Poor explanations.
+R000303,S0108,C034,5,Great instructor.
+R000304,S0110,C036,2,Not recommended.
+R000305,S0110,C005,3,Not bad.
+R000306,S0110,C024,1,Needs more examples.
+R000307,S0110,C011,2,Poor explanations.
+R000308,S0111,C012,5,Worth every minute.
+R000309,S0111,C005,3,Average experience.
+R000310,S0112,C014,1,Not what I expected.
+R000311,S0112,C004,1,I couldn't finish it.
+R000312,S0112,C030,1,Not recommended.
+R000313,S0113,C006,3,Average experience.
+R000314,S0113,C019,1,Very confusing.
+R000315,S0113,C011,1,Not what I expected.
+R000316,S0113,C010,2,Poor explanations.
+R000317,S0113,C003,2,Too difficult.
+R000318,S0114,C004,4,Good course.
+R000319,S0114,C018,3,Could be improved.
+R000320,S0114,C001,1,Very confusing.
+R000321,S0115,C017,2,Very confusing.
+R000322,S0115,C037,1,I couldn't finish it.
+R000323,S0116,C011,2,Needs more examples.
+R000324,S0116,C028,3,Average experience.
+R000325,S0116,C033,5,Amazing explanations.
+R000326,S0116,C017,3,Useful but needs updates.
+R000327,S0117,C035,2,Very confusing.
+R000328,S0117,C004,2,I couldn't finish it.
+R000329,S0117,C037,3,Could be improved.
+R000330,S0118,C015,4,Loved this course.
+R000331,S0118,C023,4,Could be improved.
+R000332,S0118,C008,4,Good course.
+R000333,S0118,C014,4,Useful but needs updates.
+R000334,S0119,C005,3,Could be improved.
+R000335,S0119,C003,5,Easy to understand.
+R000336,S0120,C037,1,Not what I expected.
+R000337,S0120,C034,2,I couldn't finish it.
+R000338,S0120,C020,1,Content is outdated.
+R000339,S0120,C029,1,Content is outdated.
+R000340,S0121,C036,1,Too difficult.
+R000341,S0121,C007,5,Great instructor.
+R000342,S0121,C013,4,Loved this course.
+R000343,S0122,C039,4,Could be improved.
+R000344,S0122,C023,2,Content is outdated.
+R000345,S0122,C020,2,Needs more examples.
+R000346,S0122,C027,4,Great instructor.
+R000347,S0122,C004,2,Content is outdated.
+R000348,S0123,C039,2,I couldn't finish it.
+R000349,S0123,C030,5,Great instructor.
+R000350,S0124,C024,2,Content is outdated.
+R000351,S0125,C025,2,Very confusing.
+R000352,S0125,C034,3,Content was okay.
+R000353,S0125,C001,2,Content is outdated.
+R000354,S0126,C011,2,Content is outdated.
+R000355,S0126,C030,2,Needs more examples.
+R000356,S0126,C033,1,Too difficult.
+R000357,S0126,C032,4,Loved this course.
+R000358,S0126,C001,2,Poor explanations.
+R000359,S0127,C004,3,Helpful overall.
+R000360,S0127,C014,3,Could be improved.
+R000361,S0127,C024,5,Amazing explanations.
+R000362,S0128,C010,2,Very confusing.
+R000363,S0128,C035,2,Needs more examples.
+R000364,S0128,C032,1,Poor explanations.
+R000365,S0129,C013,5,Easy to understand.
+R000366,S0129,C023,5,Excellent course!
+R000367,S0130,C018,2,Poor explanations.
+R000368,S0131,C017,5,Great instructor.
+R000369,S0131,C004,2,I couldn't finish it.
+R000370,S0131,C008,1,Needs more examples.
+R000371,S0132,C038,1,Needs more examples.
+R000372,S0132,C011,4,Excellent course!
+R000373,S0132,C024,2,Too difficult.
+R000374,S0132,C034,2,Too difficult.
+R000375,S0133,C024,4,Not bad.
+R000376,S0134,C004,3,Useful but needs updates.
+R000377,S0134,C024,1,Needs more examples.
+R000378,S0135,C036,1,I couldn't finish it.
+R000379,S0135,C009,2,Content is outdated.
+R000380,S0136,C007,5,Practical examples.
+R000381,S0136,C004,2,Poor explanations.
+R000382,S0136,C001,3,Helpful overall.
+R000383,S0136,C014,3,Content was okay.
+R000384,S0137,C030,1,Very confusing.
+R000385,S0137,C037,4,Great instructor.
+R000386,S0137,C001,2,Too difficult.
+R000387,S0138,C022,4,Could be improved.
+R000388,S0139,C025,1,Needs more examples.
+R000389,S0139,C032,4,Fantastic content.
+R000390,S0139,C029,4,Practical examples.
+R000391,S0140,C034,3,Content was okay.
+R000392,S0140,C003,3,Not bad.
+R000393,S0141,C040,4,Some lessons were useful.
+R000394,S0141,C022,4,Excellent course!
+R000395,S0141,C024,2,I couldn't finish it.
+R000396,S0141,C019,4,Average experience.
+R000397,S0142,C038,1,Content is outdated.
+R000398,S0142,C036,3,Average experience.
+R000399,S0142,C011,5,Very informative.
+R000400,S0144,C032,3,Good course.
+R000401,S0144,C018,3,Useful but needs updates.
+R000402,S0144,C012,4,Good course.
+R000403,S0145,C014,3,Average experience.
+R000404,S0145,C008,1,Very confusing.
+R000405,S0145,C031,5,Practical examples.
+R000406,S0146,C007,3,Content was okay.
+R000407,S0147,C040,2,Very confusing.
+R000408,S0147,C037,3,Content was okay.
+R000409,S0147,C032,3,Good course.
+R000410,S0148,C019,2,Not recommended.
+R000411,S0148,C023,5,Worth every minute.
+R000412,S0148,C021,2,Content is outdated.
+R000413,S0148,C026,1,Poor explanations.
+R000414,S0148,C035,1,Content is outdated.
+R000415,S0149,C027,4,Loved this course.
+R000416,S0149,C010,5,Very informative.
+R000417,S0150,C015,2,Not what I expected.
+R000418,S0150,C030,4,Loved this course.
+R000419,S0150,C002,5,Fantastic content.
+R000420,S0151,C032,3,Content was okay.
+R000421,S0151,C029,3,Good course.
+R000422,S0151,C017,3,Could be improved.
+R000423,S0152,C024,1,Very confusing.
+R000424,S0152,C038,4,Worth every minute.
+R000425,S0152,C022,2,Not what I expected.
+R000426,S0152,C020,3,Content was okay.
+R000427,S0153,C033,1,I couldn't finish it.
+R000428,S0153,C005,1,Content is outdated.
+R000429,S0154,C038,2,Not what I expected.
+R000430,S0154,C018,1,I couldn't finish it.
+R000431,S0154,C008,3,Average experience.
+R000432,S0155,C009,1,Content is outdated.
+R000433,S0156,C006,2,Poor explanations.
+R000434,S0156,C029,3,Some lessons were useful.
+R000435,S0157,C015,2,Needs more examples.
+R000436,S0157,C033,1,Not what I expected.
+R000437,S0158,C019,1,Content is outdated.
+R000438,S0158,C014,2,Content is outdated.
+R000439,S0159,C030,3,Average experience.
+R000440,S0160,C020,2,Needs more examples.
+R000441,S0160,C038,2,Too difficult.
+R000442,S0161,C010,2,Very confusing.
+R000443,S0161,C021,1,Too difficult.
+R000444,S0162,C007,3,Useful but needs updates.
+R000445,S0162,C040,1,Content is outdated.
+R000446,S0162,C026,3,Not bad.
+R000447,S0163,C033,1,I couldn't finish it.
+R000448,S0164,C022,3,Good course.
+R000449,S0164,C007,2,Needs more examples.
+R000450,S0164,C015,1,Needs more examples.
+R000451,S0164,C029,5,Excellent course!
+R000452,S0165,C024,3,Average experience.
+R000453,S0166,C035,3,Some lessons were useful.
+R000454,S0166,C030,5,Great instructor.
+R000455,S0166,C011,3,Could be improved.
+R000456,S0167,C016,2,Too difficult.
+R000457,S0167,C027,2,Poor explanations.
+R000458,S0167,C006,3,Helpful overall.
+R000459,S0167,C023,4,Worth every minute.
+R000460,S0167,C018,5,Easy to understand.
+R000461,S0168,C033,3,Average experience.
+R000462,S0168,C002,5,Great instructor.
+R000463,S0169,C003,3,Some lessons were useful.
+R000464,S0169,C015,1,Needs more examples.
+R000465,S0169,C012,5,Loved this course.
+R000466,S0170,C013,4,Highly recommended.
+R000467,S0171,C008,5,Loved this course.
+R000468,S0171,C026,2,Needs more examples.
+R000469,S0172,C005,5,Amazing explanations.
+R000470,S0172,C033,2,Content is outdated.
+R000471,S0172,C032,1,I couldn't finish it.
+R000472,S0173,C027,3,Content was okay.
+R000473,S0173,C014,3,Some lessons were useful.
+R000474,S0173,C013,1,Very confusing.
+R000475,S0174,C026,3,Content was okay.
+R000476,S0174,C028,1,Content is outdated.
+R000477,S0175,C033,4,Practical examples.
+R000478,S0175,C026,2,Needs more examples.
+R000479,S0175,C034,1,Too difficult.
+R000480,S0176,C035,5,Excellent course!
+R000481,S0176,C029,4,Amazing explanations.
+R000482,S0176,C031,2,Not recommended.
+R000483,S0177,C034,2,Poor explanations.
+R000484,S0177,C002,3,Average experience.
+R000485,S0177,C030,1,Needs more examples.
+R000486,S0177,C031,5,Easy to understand.
+R000487,S0178,C025,3,Content was okay.
+R000488,S0178,C001,5,Easy to understand.
+R000489,S0178,C021,3,Good course.
+R000490,S0178,C027,5,Amazing explanations.
+R000491,S0179,C010,1,I couldn't finish it.
+R000492,S0179,C025,4,Great instructor.
+R000493,S0179,C004,2,I couldn't finish it.
+R000494,S0179,C036,1,Too difficult.
+R000495,S0180,C032,4,Not bad.
+R000496,S0180,C012,3,Some lessons were useful.
+R000497,S0180,C001,2,Content is outdated.
+R000498,S0180,C019,4,Excellent course!
+R000499,S0180,C039,1,Very confusing.
+R000500,S0181,C003,4,Not bad.
+R000501,S0181,C020,1,Not what I expected.
+R000502,S0182,C040,3,Some lessons were useful.
+R000503,S0182,C039,2,I couldn't finish it.
+R000504,S0183,C030,1,Not recommended.
+R000505,S0183,C002,1,Poor explanations.
+R000506,S0183,C009,2,Not recommended.
+R000507,S0183,C038,3,Helpful overall.
+R000508,S0184,C031,3,Helpful overall.
+R000509,S0184,C032,1,Very confusing.
+R000510,S0184,C023,2,Poor explanations.
+R000511,S0184,C040,1,Not recommended.
+R000512,S0184,C014,1,Very confusing.
+R000513,S0185,C033,5,Loved this course.
+R000514,S0185,C007,4,Good course.
+R000515,S0186,C028,3,Could be improved.
+R000516,S0186,C011,3,Good course.
+R000517,S0186,C014,2,Not recommended.
+R000518,S0186,C021,3,Helpful overall.
+R000519,S0187,C032,3,Content was okay.
+R000520,S0187,C026,3,Average experience.
+R000521,S0187,C011,3,Useful but needs updates.
+R000522,S0188,C033,2,Content is outdated.
+R000523,S0188,C008,4,Some lessons were useful.
+R000524,S0188,C016,5,Worth every minute.
+R000525,S0189,C029,1,Poor explanations.
+R000526,S0189,C026,2,Not what I expected.
+R000527,S0189,C001,3,Content was okay.
+R000528,S0190,C028,3,Useful but needs updates.
+R000529,S0190,C032,3,Average experience.
+R000530,S0190,C022,3,Content was okay.
+R000531,S0190,C009,5,Worth every minute.
+R000532,S0190,C015,5,Great instructor.
+R000533,S0191,C025,2,I couldn't finish it.
+R000534,S0191,C020,1,Very confusing.
+R000535,S0192,C026,2,I couldn't finish it.
+R000536,S0192,C030,3,Some lessons were useful.
+R000537,S0193,C001,3,Some lessons were useful.
+R000538,S0193,C010,2,I couldn't finish it.
+R000539,S0193,C032,3,Average experience.
+R000540,S0194,C013,2,Too difficult.
+R000541,S0195,C034,2,Poor explanations.
+R000542,S0195,C007,1,Poor explanations.
+R000543,S0196,C008,3,Could be improved.
+R000544,S0196,C001,1,Poor explanations.
+R000545,S0197,C003,2,Not recommended.
+R000546,S0198,C020,2,Very confusing.
+R000547,S0198,C013,2,Needs more examples.
+R000548,S0198,C017,1,Too difficult.
+R000549,S0199,C006,2,I couldn't finish it.
+R000550,S0199,C037,4,Content was okay.
+R000551,S0199,C016,3,Some lessons were useful.
+R000552,S0199,C007,2,Poor explanations.
+R000553,S0199,C026,2,Very confusing.
+R000554,S0200,C001,5,Fantastic content.
+R000555,S0200,C025,4,Worth every minute.
+R000556,S0201,C002,2,Too difficult.
+R000557,S0201,C040,2,Needs more examples.
+R000558,S0201,C024,2,Not recommended.
+R000559,S0202,C023,2,Too difficult.
+R000560,S0202,C002,3,Good course.
+R000561,S0202,C005,5,Amazing explanations.
+R000562,S0203,C019,2,Not recommended.
+R000563,S0204,C033,1,Content is outdated.
+R000564,S0204,C015,1,Too difficult.
+R000565,S0204,C028,5,Loved this course.
+R000566,S0204,C029,3,Average experience.
+R000567,S0205,C031,5,Worth every minute.
+R000568,S0205,C032,2,Poor explanations.
+R000569,S0205,C004,4,Very informative.
+R000570,S0206,C005,4,Worth every minute.
+R000571,S0206,C019,3,Helpful overall.
+R000572,S0207,C004,3,Good course.
+R000573,S0208,C007,5,Amazing explanations.
+R000574,S0208,C001,4,Great instructor.
+R000575,S0208,C014,2,Poor explanations.
+R000576,S0208,C016,5,Easy to understand.
+R000577,S0209,C040,5,Easy to understand.
+R000578,S0209,C008,4,Very informative.
+R000579,S0209,C033,2,Needs more examples.
+R000580,S0210,C006,1,Not what I expected.
+R000581,S0210,C034,1,Needs more examples.
+R000582,S0210,C023,3,Average experience.
+R000583,S0210,C032,4,Useful but needs updates.
+R000584,S0211,C008,4,Helpful overall.
+R000585,S0211,C039,1,Very confusing.
+R000586,S0211,C020,4,Loved this course.
+R000587,S0212,C032,1,Poor explanations.
+R000588,S0212,C009,1,I couldn't finish it.
+R000589,S0212,C035,2,Not what I expected.
+R000590,S0212,C027,3,Good course.
+R000591,S0213,C039,3,Content was okay.
+R000592,S0213,C001,5,Loved this course.
+R000593,S0213,C013,1,Too difficult.
+R000594,S0214,C033,2,Not what I expected.
+R000595,S0214,C036,3,Average experience.
+R000596,S0214,C007,4,Very informative.
+R000597,S0214,C013,3,Helpful overall.
+R000598,S0215,C010,2,Needs more examples.
+R000599,S0215,C031,4,Helpful overall.
+R000600,S0215,C003,1,I couldn't finish it.
+R000601,S0216,C034,4,Amazing explanations.
+R000602,S0216,C016,1,Not what I expected.
+R000603,S0216,C010,2,I couldn't finish it.
+R000604,S0216,C040,1,Poor explanations.
+R000605,S0217,C040,2,Content is outdated.
+R000606,S0218,C020,3,Useful but needs updates.
+R000607,S0218,C027,3,Could be improved.
+R000608,S0219,C022,1,Needs more examples.
+R000609,S0219,C004,4,Great instructor.
+R000610,S0219,C003,3,Average experience.
+R000611,S0220,C024,3,Useful but needs updates.
+R000612,S0221,C013,2,Poor explanations.
+R000613,S0221,C032,4,Fantastic content.
+R000614,S0221,C040,4,Helpful overall.
+R000615,S0222,C033,2,Not what I expected.
+R000616,S0222,C012,2,Too difficult.
+R000617,S0222,C018,4,Fantastic content.
+R000618,S0222,C009,3,Average experience.
+R000619,S0223,C022,4,Easy to understand.
+R000620,S0223,C024,3,Some lessons were useful.
+R000621,S0223,C021,2,I couldn't finish it.
+R000622,S0223,C040,3,Helpful overall.
+R000623,S0224,C021,4,Highly recommended.
+R000624,S0224,C014,3,Useful but needs updates.
+R000625,S0225,C022,1,Needs more examples.
+R000626,S0225,C010,5,Excellent course!
+R000627,S0226,C009,4,Helpful overall.
+R000628,S0226,C013,1,I couldn't finish it.
+R000629,S0226,C011,5,Fantastic content.
+R000630,S0226,C010,5,Great instructor.
+R000631,S0227,C028,2,I couldn't finish it.
+R000632,S0227,C018,1,Not what I expected.
+R000633,S0228,C038,3,Good course.
+R000634,S0228,C036,2,Poor explanations.
+R000635,S0229,C013,3,Some lessons were useful.
+R000636,S0229,C030,3,Useful but needs updates.
+R000637,S0230,C027,2,Too difficult.
+R000638,S0230,C015,3,Good course.
+R000639,S0230,C006,3,Good course.
+R000640,S0231,C035,1,Too difficult.
+R000641,S0231,C027,1,Poor explanations.
+R000642,S0231,C006,3,Good course.
+R000643,S0231,C002,2,Poor explanations.
+R000644,S0232,C031,3,Not bad.
+R000645,S0232,C038,2,Not what I expected.
+R000646,S0232,C012,1,Too difficult.
+R000647,S0232,C005,2,Content is outdated.
+R000648,S0233,C023,1,Too difficult.
+R000649,S0233,C021,3,Good course.
+R000650,S0233,C035,4,Good course.
+R000651,S0234,C024,1,Too difficult.
+R000652,S0234,C004,4,Content was okay.
+R000653,S0235,C003,2,Poor explanations.
+R000654,S0235,C004,1,Needs more examples.
+R000655,S0235,C008,2,Very confusing.
+R000656,S0235,C030,5,Excellent course!
+R000657,S0235,C010,4,Very informative.
+R000658,S0236,C024,4,Some lessons were useful.
+R000659,S0236,C032,3,Useful but needs updates.
+R000660,S0237,C023,1,Very confusing.
+R000661,S0237,C031,2,Very confusing.
+R000662,S0237,C001,4,Average experience.
+R000663,S0237,C025,4,Useful but needs updates.
+R000664,S0237,C016,5,Very informative.
+R000665,S0238,C010,2,Needs more examples.
+R000666,S0238,C008,1,Needs more examples.
+R000667,S0238,C002,1,Poor explanations.
+R000668,S0239,C009,2,Not recommended.
+R000669,S0239,C039,4,Not bad.
+R000670,S0239,C025,3,Content was okay.
+R000671,S0240,C032,2,Too difficult.
+R000672,S0240,C026,2,Too difficult.
+R000673,S0240,C027,4,Worth every minute.
+R000674,S0241,C038,2,Content is outdated.
+R000675,S0241,C001,4,Highly recommended.
+R000676,S0241,C010,4,Average experience.
+R000677,S0241,C036,3,Helpful overall.
+R000678,S0242,C009,5,Worth every minute.
+R000679,S0242,C007,4,Easy to understand.
+R000680,S0243,C021,3,Helpful overall.
+R000681,S0243,C001,4,Easy to understand.
+R000682,S0243,C038,1,Not what I expected.
+R000683,S0243,C036,3,Not bad.
+R000684,S0244,C017,2,Not what I expected.
+R000685,S0244,C001,1,Not recommended.
+R000686,S0244,C033,3,Not bad.
+R000687,S0244,C003,1,I couldn't finish it.
+R000688,S0245,C018,1,Not what I expected.
+R000689,S0245,C033,3,Some lessons were useful.
+R000690,S0245,C032,1,Content is outdated.
+R000691,S0246,C014,2,Not recommended.
+R000692,S0246,C004,3,Good course.
+R000693,S0246,C019,4,Loved this course.
+R000694,S0246,C031,2,Too difficult.
+R000695,S0247,C005,5,Loved this course.
+R000696,S0247,C030,2,Too difficult.
+R000697,S0247,C038,3,Some lessons were useful.
+R000698,S0248,C024,3,Average experience.
+R000699,S0248,C028,3,Good course.
+R000700,S0248,C017,4,Highly recommended.
+R000701,S0249,C004,2,Too difficult.
+R000702,S0249,C029,2,Not recommended.
+R000703,S0250,C018,2,Very confusing.
+R000704,S0250,C037,2,Poor explanations.
+R000705,S0251,C038,4,Practical examples.
+R000706,S0251,C016,3,Some lessons were useful.
+R000707,S0251,C018,2,Not what I expected.
+R000708,S0252,C029,1,Needs more examples.
+R000709,S0252,C031,2,Not recommended.
+R000710,S0253,C010,3,Average experience.
+R000711,S0253,C040,4,Some lessons were useful.
+R000712,S0254,C025,4,Fantastic content.
+R000713,S0254,C028,4,Worth every minute.
+R000714,S0254,C013,3,Average experience.
+R000715,S0255,C009,2,Not what I expected.
+R000716,S0255,C010,2,Not recommended.
+R000717,S0256,C023,1,Not what I expected.
+R000718,S0256,C038,1,Not what I expected.
+R000719,S0257,C015,2,Not what I expected.
+R000720,S0257,C007,5,Very informative.
+R000721,S0258,C030,3,Could be improved.
+R000722,S0258,C020,4,Average experience.
+R000723,S0258,C040,1,Too difficult.
+R000724,S0258,C007,4,Helpful overall.
+R000725,S0258,C023,3,Could be improved.
+R000726,S0259,C018,4,Highly recommended.
+R000727,S0259,C038,3,Some lessons were useful.
+R000728,S0259,C006,3,Content was okay.
+R000729,S0260,C026,2,Poor explanations.
+R000730,S0260,C035,5,Easy to understand.
+R000731,S0261,C001,2,Too difficult.
+R000732,S0261,C037,2,Content is outdated.
+R000733,S0261,C021,5,Fantastic content.
+R000734,S0263,C024,5,Excellent course!
+R000735,S0264,C013,3,Some lessons were useful.
+R000736,S0264,C031,2,Very confusing.
+R000737,S0265,C015,3,Useful but needs updates.
+R000738,S0265,C008,2,Not what I expected.
+R000739,S0265,C002,4,Very informative.
+R000740,S0265,C012,3,Average experience.
+R000741,S0266,C027,1,Needs more examples.
+R000742,S0266,C012,1,Needs more examples.
+R000743,S0266,C010,3,Good course.
+R000744,S0266,C016,1,Not what I expected.
+R000745,S0268,C027,4,Could be improved.
+R000746,S0268,C008,2,I couldn't finish it.
+R000747,S0268,C035,5,Loved this course.
+R000748,S0269,C025,2,Too difficult.
+R000749,S0270,C015,1,Too difficult.
+R000750,S0270,C020,1,Too difficult.
+R000751,S0270,C004,3,Content was okay.
+R000752,S0270,C038,2,Needs more examples.
+R000753,S0271,C035,3,Helpful overall.
+R000754,S0271,C014,2,Not what I expected.
+R000755,S0272,C003,3,Helpful overall.
+R000756,S0272,C017,3,Not bad.
+R000757,S0273,C023,3,Could be improved.
+R000758,S0273,C009,1,Needs more examples.
+R000759,S0273,C016,1,Not what I expected.
+R000760,S0273,C021,1,I couldn't finish it.
+R000761,S0274,C031,2,Poor explanations.
+R000762,S0274,C022,4,Excellent course!
+R000763,S0275,C035,3,Content was okay.
+R000764,S0275,C040,2,Not recommended.
+R000765,S0276,C027,2,Too difficult.
+R000766,S0276,C038,3,Content was okay.
+R000767,S0276,C040,3,Could be improved.
+R000768,S0276,C012,2,Needs more examples.
+R000769,S0277,C020,3,Average experience.
+R000770,S0277,C032,2,Not recommended.
+R000771,S0277,C001,3,Some lessons were useful.
+R000772,S0277,C039,4,Useful but needs updates.
+R000773,S0278,C001,1,Very confusing.
+R000774,S0278,C029,2,Poor explanations.
+R000775,S0278,C033,5,Excellent course!
+R000776,S0278,C024,3,Good course.
+R000777,S0279,C026,4,Some lessons were useful.
+R000778,S0280,C003,5,Excellent course!
+R000779,S0280,C038,1,Very confusing.
+R000780,S0281,C035,4,Useful but needs updates.
+R000781,S0281,C030,3,Helpful overall.
+R000782,S0281,C023,4,Fantastic content.
+R000783,S0281,C014,3,Good course.
+R000784,S0282,C020,3,Average experience.
+R000785,S0282,C002,4,Could be improved.
+R000786,S0282,C038,1,Too difficult.
+R000787,S0283,C038,4,Could be improved.
+R000788,S0283,C024,2,Very confusing.
+R000789,S0284,C001,3,Not bad.
+R000790,S0284,C008,1,Too difficult.
+R000791,S0284,C003,3,Some lessons were useful.
+R000792,S0285,C005,3,Helpful overall.
+R000793,S0286,C015,1,Not recommended.
+R000794,S0287,C008,3,Useful but needs updates.
+R000795,S0287,C024,1,Needs more examples.
+R000796,S0287,C038,3,Not bad.
+R000797,S0287,C033,1,Too difficult.
+R000798,S0288,C040,1,Poor explanations.
+R000799,S0288,C023,2,Poor explanations.
+R000800,S0289,C040,1,Too difficult.
+R000801,S0289,C016,2,Needs more examples.
+R000802,S0289,C019,2,Too difficult.
+R000803,S0290,C037,5,Practical examples.
+R000804,S0290,C001,5,Fantastic content.
+R000805,S0290,C021,5,Easy to understand.
+R000806,S0290,C006,3,Not bad.
+R000807,S0290,C014,2,Not what I expected.
+R000808,S0291,C029,2,Too difficult.
+R000809,S0291,C023,3,Content was okay.
+R000810,S0292,C018,3,Content was okay.
+R000811,S0292,C013,2,Not what I expected.
+R000812,S0293,C010,2,Not what I expected.
+R000813,S0294,C008,1,Content is outdated.
+R000814,S0294,C020,5,Practical examples.
+R000815,S0294,C028,2,I couldn't finish it.
+R000816,S0294,C030,4,Highly recommended.
+R000817,S0294,C018,2,Needs more examples.
+R000818,S0295,C037,2,Needs more examples.
+R000819,S0295,C023,1,I couldn't finish it.
+R000820,S0295,C031,2,Too difficult.
+R000821,S0296,C031,3,Useful but needs updates.
+R000822,S0296,C023,4,Good course.
+R000823,S0296,C022,2,Not recommended.
+R000824,S0297,C029,1,I couldn't finish it.
+R000825,S0297,C004,2,Content is outdated.
+R000826,S0298,C019,3,Could be improved.
+R000827,S0298,C007,2,Content is outdated.
+R000828,S0298,C005,2,Needs more examples.
+R000829,S0299,C019,1,I couldn't finish it.
+R000830,S0299,C020,5,Loved this course.
+R000831,S0299,C035,5,Very informative.
+R000832,S0299,C032,3,Content was okay.
+R000833,S0300,C021,1,Needs more examples.
+R000834,S0300,C027,3,Not bad.
+R000835,S0301,C031,4,Great instructor.
+R000836,S0301,C016,5,Loved this course.
+R000837,S0301,C033,2,Very confusing.
+R000838,S0302,C019,2,Very confusing.
+R000839,S0302,C017,2,Not recommended.
+R000840,S0302,C021,3,Not bad.
+R000841,S0302,C024,3,Some lessons were useful.
+R000842,S0303,C002,1,Needs more examples.
+R000843,S0304,C018,1,Not what I expected.
+R000844,S0304,C033,3,Could be improved.
+R000845,S0304,C013,2,Content is outdated.
+R000846,S0304,C025,5,Excellent course!
+R000847,S0304,C032,3,Could be improved.
+R000848,S0305,C017,2,Poor explanations.
+R000849,S0305,C024,2,I couldn't finish it.
+R000850,S0306,C037,4,Worth every minute.
+R000851,S0306,C006,1,Very confusing.
+R000852,S0306,C026,4,Content was okay.
+R000853,S0306,C040,2,Needs more examples.
+R000854,S0307,C011,1,Not recommended.
+R000855,S0307,C007,2,Content is outdated.
+R000856,S0307,C016,1,Needs more examples.
+R000857,S0307,C036,3,Average experience.
+R000858,S0307,C002,5,Great instructor.
+R000859,S0308,C030,4,Excellent course!
+R000860,S0308,C024,1,Not what I expected.
+R000861,S0308,C017,5,Practical examples.
+R000862,S0309,C001,1,Poor explanations.
+R000863,S0309,C016,2,Needs more examples.
+R000864,S0309,C027,4,Practical examples.
+R000865,S0309,C007,1,Very confusing.
+R000866,S0309,C021,2,I couldn't finish it.
+R000867,S0310,C025,3,Helpful overall.
+R000868,S0310,C030,5,Practical examples.
+R000869,S0311,C027,2,Very confusing.
+R000870,S0311,C028,5,Excellent course!
+R000871,S0311,C020,2,Content is outdated.
+R000872,S0312,C024,2,Very confusing.
+R000873,S0312,C003,1,Poor explanations.
+R000874,S0312,C029,2,Not what I expected.
+R000875,S0312,C021,2,Content is outdated.
+R000876,S0313,C015,1,Not what I expected.
+R000877,S0314,C036,2,Very confusing.
+R000878,S0314,C037,1,I couldn't finish it.
+R000879,S0314,C025,2,Too difficult.
+R000880,S0314,C023,1,Very confusing.
+R000881,S0315,C004,2,I couldn't finish it.
+R000882,S0315,C030,4,Content was okay.
+R000883,S0315,C031,3,Helpful overall.
+R000884,S0315,C007,5,Loved this course.
+R000885,S0316,C028,1,Not what I expected.
+R000886,S0316,C009,1,Not recommended.
+R000887,S0317,C008,4,Some lessons were useful.
+R000888,S0317,C011,4,Excellent course!
+R000889,S0317,C035,1,Very confusing.
+R000890,S0318,C005,3,Useful but needs updates.
+R000891,S0318,C025,2,Content is outdated.
+R000892,S0318,C004,5,Amazing explanations.
+R000893,S0318,C020,3,Average experience.
+R000894,S0318,C008,1,Poor explanations.
+R000895,S0319,C017,4,Average experience.
+R000896,S0319,C040,4,Loved this course.
+R000897,S0319,C035,2,Content is outdated.
+R000898,S0320,C018,3,Not bad.
+R000899,S0320,C022,2,I couldn't finish it.
+R000900,S0320,C039,3,Useful but needs updates.
+R000901,S0321,C002,1,Very confusing.
+R000902,S0321,C025,4,Average experience.
+R000903,S0322,C015,2,Not recommended.
+R000904,S0322,C027,4,Highly recommended.
+R000905,S0322,C005,4,Good course.
+R000906,S0322,C035,3,Some lessons were useful.
+R000907,S0323,C040,3,Could be improved.
+R000908,S0323,C022,3,Some lessons were useful.
+R000909,S0324,C011,4,Easy to understand.
+R000910,S0325,C037,5,Fantastic content.
+R000911,S0325,C011,3,Content was okay.
+R000912,S0325,C006,2,Not recommended.
+R000913,S0326,C027,2,Very confusing.
+R000914,S0326,C032,2,I couldn't finish it.
+R000915,S0326,C020,1,Not recommended.
+R000916,S0326,C002,2,Not what I expected.
+R000917,S0327,C009,3,Content was okay.
+R000918,S0327,C014,3,Good course.
+R000919,S0327,C003,2,Poor explanations.
+R000920,S0327,C017,1,Not recommended.
+R000921,S0328,C036,3,Some lessons were useful.
+R000922,S0328,C032,2,Very confusing.
+R000923,S0328,C030,1,Very confusing.
+R000924,S0329,C011,4,Highly recommended.
+R000925,S0329,C022,2,Too difficult.
+R000926,S0329,C018,1,Too difficult.
+R000927,S0330,C001,5,Excellent course!
+R000928,S0330,C031,1,I couldn't finish it.
+R000929,S0331,C027,3,Some lessons were useful.
+R000930,S0331,C014,2,Very confusing.
+R000931,S0331,C026,3,Content was okay.
+R000932,S0331,C022,2,Very confusing.
+R000933,S0332,C025,4,Excellent course!
+R000934,S0332,C030,1,Not what I expected.
+R000935,S0332,C024,1,Not what I expected.
+R000936,S0332,C034,5,Excellent course!
+R000937,S0333,C037,3,Not bad.
+R000938,S0333,C021,1,Very confusing.
+R000939,S0333,C019,3,Could be improved.
+R000940,S0334,C031,4,Practical examples.
+R000941,S0334,C009,4,Some lessons were useful.
+R000942,S0334,C026,1,Poor explanations.
+R000943,S0335,C025,3,Useful but needs updates.
+R000944,S0335,C008,3,Good course.
+R000945,S0335,C002,5,Highly recommended.
+R000946,S0336,C021,5,Practical examples.
+R000947,S0336,C039,4,Not bad.
+R000948,S0336,C008,5,Great instructor.
+R000949,S0337,C019,4,Excellent course!
+R000950,S0337,C001,2,Poor explanations.
+R000951,S0338,C018,5,Amazing explanations.
+R000952,S0338,C022,1,Not recommended.
+R000953,S0339,C004,1,Needs more examples.
+R000954,S0339,C030,1,Very confusing.
+R000955,S0340,C021,2,Content is outdated.
+R000956,S0340,C007,2,Content is outdated.
+R000957,S0341,C009,2,Poor explanations.
+R000958,S0341,C016,4,Content was okay.
+R000959,S0342,C019,3,Not bad.
+R000960,S0342,C024,1,Too difficult.
+R000961,S0342,C006,4,Could be improved.
+R000962,S0342,C018,2,Not what I expected.
+R000963,S0342,C009,2,Content is outdated.
+R000964,S0343,C004,3,Could be improved.
+R000965,S0343,C005,4,Amazing explanations.
+R000966,S0344,C034,5,Fantastic content.
+R000967,S0344,C039,4,Amazing explanations.
+R000968,S0344,C010,5,Amazing explanations.
+R000969,S0344,C028,2,Not recommended.
+R000970,S0345,C031,4,Loved this course.
+R000971,S0345,C005,5,Very informative.
+R000972,S0345,C036,5,Great instructor.
+R000973,S0346,C006,2,Needs more examples.
+R000974,S0346,C020,5,Excellent course!
+R000975,S0346,C003,2,Not what I expected.
+R000976,S0346,C011,1,Not what I expected.
+R000977,S0347,C012,5,Very informative.
+R000978,S0347,C015,1,Very confusing.
+R000979,S0348,C011,4,Highly recommended.
+R000980,S0348,C028,3,Not bad.
+R000981,S0348,C014,3,Not bad.
+R000982,S0349,C038,4,Could be improved.
+R000983,S0349,C039,3,Not bad.
+R000984,S0349,C036,2,Not what I expected.
+R000985,S0350,C026,1,I couldn't finish it.
+R000986,S0351,C034,2,Not what I expected.
+R000987,S0351,C003,2,I couldn't finish it.
+R000988,S0351,C026,5,Excellent course!
+R000989,S0352,C037,2,Not what I expected.
+R000990,S0352,C018,1,Needs more examples.
+R000991,S0352,C021,4,Excellent course!
+R000992,S0352,C014,3,Useful but needs updates.
+R000993,S0352,C005,2,Too difficult.
+R000994,S0353,C011,2,Too difficult.
+R000995,S0353,C025,2,Poor explanations.
+R000996,S0354,C034,4,Average experience.
+R000997,S0354,C017,1,Not what I expected.
+R000998,S0355,C015,3,Could be improved.
+R000999,S0355,C028,3,Some lessons were useful.
+R001000,S0356,C031,3,Some lessons were useful.
+R001001,S0356,C006,2,Too difficult.
+R001002,S0357,C001,1,Content is outdated.
+R001003,S0357,C003,2,Not recommended.
+R001004,S0357,C011,3,Average experience.
+R001005,S0358,C027,2,I couldn't finish it.
+R001006,S0358,C037,3,Useful but needs updates.
+R001007,S0358,C038,3,Average experience.
+R001008,S0359,C016,1,Too difficult.
+R001009,S0359,C004,3,Good course.
+R001010,S0360,C002,1,Not recommended.
+R001011,S0360,C037,1,Not what I expected.
+R001012,S0360,C024,1,Needs more examples.
+R001013,S0361,C010,5,Practical examples.
+R001014,S0361,C005,3,Useful but needs updates.
+R001015,S0362,C030,4,Good course.
+R001016,S0362,C031,5,Fantastic content.
+R001017,S0362,C011,2,Poor explanations.
+R001018,S0363,C015,2,Too difficult.
+R001019,S0363,C018,2,Very confusing.
+R001020,S0364,C019,4,Could be improved.
+R001021,S0364,C028,4,Excellent course!
+R001022,S0364,C021,1,Very confusing.
+R001023,S0365,C018,1,Needs more examples.
+R001024,S0365,C017,3,Helpful overall.
+R001025,S0365,C025,3,Content was okay.
+R001026,S0366,C021,3,Helpful overall.
+R001027,S0366,C015,2,I couldn't finish it.
+R001028,S0366,C010,4,Some lessons were useful.
+R001029,S0367,C017,3,Helpful overall.
+R001030,S0367,C016,2,Not recommended.
+R001031,S0367,C007,3,Average experience.
+R001032,S0368,C003,3,Useful but needs updates.
+R001033,S0368,C032,3,Good course.
+R001034,S0369,C034,4,Very informative.
+R001035,S0369,C010,5,Great instructor.
+R001036,S0370,C023,1,Poor explanations.
+R001037,S0371,C024,3,Useful but needs updates.
+R001038,S0371,C013,4,Good course.
+R001039,S0371,C035,1,Content is outdated.
+R001040,S0371,C017,2,Very confusing.
+R001041,S0371,C021,5,Easy to understand.
+R001042,S0372,C026,2,Poor explanations.
+R001043,S0372,C037,2,Not what I expected.
+R001044,S0372,C009,5,Great instructor.
+R001045,S0372,C023,2,Very confusing.
+R001046,S0373,C027,2,Not what I expected.
+R001047,S0373,C013,1,Not recommended.
+R001048,S0373,C015,4,Amazing explanations.
+R001049,S0373,C006,5,Excellent course!
+R001050,S0374,C014,5,Excellent course!
+R001051,S0374,C028,3,Helpful overall.
+R001052,S0375,C005,2,Very confusing.
+R001053,S0375,C007,4,Excellent course!
+R001054,S0375,C009,3,Useful but needs updates.
+R001055,S0376,C011,5,Very informative.
+R001056,S0376,C003,2,Poor explanations.
+R001057,S0376,C033,1,Needs more examples.
+R001058,S0377,C010,2,Not recommended.
+R001059,S0377,C038,4,Some lessons were useful.
+R001060,S0377,C034,2,Not what I expected.
+R001061,S0377,C017,3,Average experience.
+R001062,S0377,C020,4,Very informative.
+R001063,S0378,C007,5,Highly recommended.
+R001064,S0378,C024,2,Poor explanations.
+R001065,S0378,C035,3,Useful but needs updates.
+R001066,S0379,C006,1,Poor explanations.
+R001067,S0379,C021,1,Not recommended.
+R001068,S0379,C004,3,Not bad.
+R001069,S0380,C035,1,Not what I expected.
+R001070,S0380,C031,2,I couldn't finish it.
+R001071,S0381,C013,4,Could be improved.
+R001072,S0381,C011,2,Poor explanations.
+R001073,S0382,C021,4,Amazing explanations.
+R001074,S0383,C007,1,I couldn't finish it.
+R001075,S0384,C012,2,I couldn't finish it.
+R001076,S0385,C013,2,I couldn't finish it.
+R001077,S0385,C023,5,Worth every minute.
+R001078,S0386,C021,4,Very informative.
+R001079,S0386,C003,3,Some lessons were useful.
+R001080,S0386,C023,2,Needs more examples.
+R001081,S0386,C012,4,Fantastic content.
+R001082,S0387,C014,3,Useful but needs updates.
+R001083,S0387,C017,4,Good course.
+R001084,S0388,C035,2,I couldn't finish it.
+R001085,S0388,C014,3,Some lessons were useful.
+R001086,S0388,C028,1,Poor explanations.
+R001087,S0388,C011,4,Content was okay.
+R001088,S0389,C030,5,Practical examples.
+R001089,S0390,C012,4,Amazing explanations.
+R001090,S0390,C008,1,Poor explanations.
+R001091,S0391,C034,2,Poor explanations.
+R001092,S0391,C028,1,Content is outdated.
+R001093,S0392,C003,2,Not recommended.
+R001094,S0392,C028,4,Some lessons were useful.
+R001095,S0392,C010,1,Content is outdated.
+R001096,S0393,C017,2,Very confusing.
+R001097,S0393,C034,4,Worth every minute.
+R001098,S0394,C005,1,Poor explanations.
+R001099,S0394,C027,3,Not bad.
+R001100,S0394,C011,1,I couldn't finish it.
+R001101,S0395,C004,3,Helpful overall.
+R001102,S0395,C037,3,Not bad.
+R001103,S0395,C009,4,Could be improved.
+R001104,S0396,C022,5,Loved this course.
+R001105,S0396,C024,4,Content was okay.
+R001106,S0396,C037,2,Content is outdated.
+R001107,S0396,C018,3,Average experience.
+R001108,S0397,C004,3,Content was okay.
+R001109,S0397,C027,3,Not bad.
+R001110,S0397,C014,2,Not what I expected.
+R001111,S0397,C011,3,Not bad.
+R001112,S0397,C023,4,Excellent course!
+R001113,S0398,C002,4,Easy to understand.
+R001114,S0398,C033,1,Not what I expected.
+R001115,S0399,C008,3,Good course.
+R001116,S0399,C019,4,Excellent course!
+R001117,S0400,C013,3,Some lessons were useful.
+R001118,S0401,C007,3,Could be improved.
+R001119,S0401,C034,1,I couldn't finish it.
+R001120,S0402,C040,5,Fantastic content.
+R001121,S0402,C021,2,Too difficult.
+R001122,S0402,C002,1,Very confusing.
+R001123,S0403,C035,1,Not what I expected.
+R001124,S0403,C016,3,Good course.
+R001125,S0403,C001,2,Not what I expected.
+R001126,S0404,C005,1,Poor explanations.
+R001127,S0404,C013,2,Too difficult.
+R001128,S0405,C023,4,Useful but needs updates.
+R001129,S0405,C004,2,Needs more examples.
+R001130,S0405,C006,4,Some lessons were useful.
+R001131,S0406,C021,2,Not what I expected.
+R001132,S0406,C025,5,Practical examples.
+R001133,S0407,C021,3,Could be improved.
+R001134,S0407,C017,2,Too difficult.
+R001135,S0407,C014,2,Poor explanations.
+R001136,S0407,C001,2,I couldn't finish it.
+R001137,S0408,C004,3,Content was okay.
+R001138,S0408,C006,2,Content is outdated.
+R001139,S0409,C005,1,I couldn't finish it.
+R001140,S0409,C024,3,Could be improved.
+R001141,S0409,C008,2,Needs more examples.
+R001142,S0410,C028,4,Amazing explanations.
+R001143,S0410,C001,1,I couldn't finish it.
+R001144,S0411,C005,2,I couldn't finish it.
+R001145,S0411,C039,2,Too difficult.
+R001146,S0411,C008,1,Very confusing.
+R001147,S0412,C020,1,Too difficult.
+R001148,S0413,C006,1,Content is outdated.
+R001149,S0413,C002,2,Not recommended.
+R001150,S0413,C019,5,Great instructor.
+R001151,S0414,C022,3,Useful but needs updates.
+R001152,S0414,C025,2,Content is outdated.
+R001153,S0415,C039,2,Not what I expected.
+R001154,S0416,C008,3,Could be improved.
+R001155,S0416,C010,1,Not recommended.
+R001156,S0416,C018,5,Amazing explanations.
+R001157,S0417,C004,2,Too difficult.
+R001158,S0418,C011,3,Average experience.
+R001159,S0418,C028,2,Content is outdated.
+R001160,S0418,C001,2,Not what I expected.
+R001161,S0418,C022,4,Easy to understand.
+R001162,S0418,C013,2,Not what I expected.
+R001163,S0419,C026,5,Practical examples.
+R001164,S0419,C006,5,Very informative.
+R001165,S0419,C018,3,Average experience.
+R001166,S0419,C017,3,Average experience.
+R001167,S0420,C038,3,Average experience.
+R001168,S0420,C007,1,Needs more examples.
+R001169,S0421,C019,1,Not what I expected.
+R001170,S0421,C016,3,Content was okay.
+R001171,S0422,C028,4,Loved this course.
+R001172,S0422,C002,5,Worth every minute.
+R001173,S0422,C009,2,Very confusing.
+R001174,S0422,C017,3,Helpful overall.
+R001175,S0423,C010,2,Not recommended.
+R001176,S0423,C015,4,Some lessons were useful.
+R001177,S0423,C026,4,Useful but needs updates.
+R001178,S0424,C018,2,I couldn't finish it.
+R001179,S0424,C009,1,I couldn't finish it.
+R001180,S0424,C022,1,Needs more examples.
+R001181,S0425,C008,1,Needs more examples.
+R001182,S0425,C018,3,Could be improved.
+R001183,S0426,C018,1,Very confusing.
+R001184,S0426,C012,2,Not what I expected.
+R001185,S0426,C013,4,Content was okay.
+R001186,S0427,C025,3,Helpful overall.
+R001187,S0427,C018,2,Poor explanations.
+R001188,S0427,C023,4,Practical examples.
+R001189,S0428,C005,3,Helpful overall.
+R001190,S0428,C040,2,Poor explanations.
+R001191,S0428,C018,2,Content is outdated.
+R001192,S0429,C031,1,Content is outdated.
+R001193,S0429,C014,3,Good course.
+R001194,S0429,C038,5,Practical examples.
+R001195,S0429,C003,3,Not bad.
+R001196,S0430,C028,3,Helpful overall.
+R001197,S0430,C006,5,Worth every minute.
+R001198,S0430,C026,2,Not what I expected.
+R001199,S0431,C027,3,Could be improved.
+R001200,S0431,C033,3,Some lessons were useful.
+R001201,S0431,C032,4,Very informative.
+R001202,S0431,C034,3,Good course.
+R001203,S0432,C025,4,Some lessons were useful.
+R001204,S0432,C034,3,Good course.
+R001205,S0432,C024,5,Very informative.
+R001206,S0433,C028,2,Poor explanations.
+R001207,S0433,C017,3,Content was okay.
+R001208,S0433,C002,5,Excellent course!
+R001209,S0434,C020,1,Needs more examples.
+R001210,S0434,C001,5,Worth every minute.
+R001211,S0434,C027,1,Needs more examples.
+R001212,S0435,C028,4,Worth every minute.
+R001213,S0435,C019,1,I couldn't finish it.
+R001214,S0436,C012,3,Average experience.
+R001215,S0436,C011,4,Some lessons were useful.
+R001216,S0436,C002,3,Helpful overall.
+R001217,S0436,C009,3,Not bad.
+R001218,S0437,C023,3,Content was okay.
+R001219,S0437,C001,2,Very confusing.
+R001220,S0437,C005,1,I couldn't finish it.
+R001221,S0438,C039,3,Good course.
+R001222,S0438,C029,5,Easy to understand.
+R001223,S0438,C001,3,Not bad.
+R001224,S0439,C022,3,Not bad.
+R001225,S0439,C003,1,Needs more examples.
+R001226,S0440,C021,2,Poor explanations.
+R001227,S0440,C028,1,Not recommended.
+R001228,S0440,C030,4,Easy to understand.
+R001229,S0440,C001,1,Not recommended.
+R001230,S0441,C023,3,Content was okay.
+R001231,S0441,C014,2,Too difficult.
+R001232,S0441,C008,3,Average experience.
+R001233,S0442,C030,4,Some lessons were useful.
+R001234,S0442,C027,2,Very confusing.
+R001235,S0442,C028,3,Good course.
+R001236,S0442,C021,2,Very confusing.
+R001237,S0443,C020,1,Too difficult.
+R001238,S0443,C011,4,Easy to understand.
+R001239,S0443,C029,2,Needs more examples.
+R001240,S0444,C023,5,Very informative.
+R001241,S0444,C038,3,Helpful overall.
+R001242,S0444,C034,5,Highly recommended.
+R001243,S0445,C002,2,Poor explanations.
+R001244,S0445,C023,4,Easy to understand.
+R001245,S0445,C017,4,Content was okay.
+R001246,S0445,C038,1,Needs more examples.
+R001247,S0445,C026,4,Great instructor.
+R001248,S0446,C031,1,I couldn't finish it.
+R001249,S0446,C015,1,Needs more examples.
+R001250,S0446,C001,3,Average experience.
+R001251,S0447,C005,1,Poor explanations.
+R001252,S0447,C023,5,Very informative.
+R001253,S0447,C030,1,Needs more examples.
+R001254,S0447,C013,5,Great instructor.
+R001255,S0448,C026,2,Too difficult.
+R001256,S0448,C023,1,Not what I expected.
+R001257,S0448,C002,1,Very confusing.
+R001258,S0449,C039,3,Could be improved.
+R001259,S0449,C011,4,Excellent course!
+R001260,S0449,C025,1,Needs more examples.
+R001261,S0450,C037,3,Could be improved.
+R001262,S0450,C008,1,Content is outdated.
+R001263,S0450,C031,5,Practical examples.
+R001264,S0451,C016,2,Too difficult.
+R001265,S0451,C013,1,Poor explanations.
+R001266,S0451,C015,1,I couldn't finish it.
+R001267,S0452,C040,2,Needs more examples.
+R001268,S0452,C009,1,Not recommended.
+R001269,S0452,C033,1,Not recommended.
+R001270,S0453,C032,2,Needs more examples.
+R001271,S0453,C037,1,Not recommended.
+R001272,S0453,C033,4,Excellent course!
+R001273,S0454,C028,3,Good course.
+R001274,S0454,C022,2,Too difficult.
+R001275,S0454,C016,1,Content is outdated.
+R001276,S0454,C021,1,Very confusing.
+R001277,S0455,C008,1,Too difficult.
+R001278,S0455,C005,5,Great instructor.
+R001279,S0455,C012,1,Not recommended.
+R001280,S0456,C023,2,Needs more examples.
+R001281,S0456,C004,2,Needs more examples.
+R001282,S0456,C008,3,Could be improved.
+R001283,S0456,C009,1,Poor explanations.
+R001284,S0457,C016,1,Poor explanations.
+R001285,S0458,C031,1,Content is outdated.
+R001286,S0458,C035,3,Could be improved.
+R001287,S0458,C038,4,Useful but needs updates.
+R001288,S0458,C014,2,Needs more examples.
+R001289,S0459,C015,5,Loved this course.
+R001290,S0459,C013,5,Highly recommended.
+R001291,S0459,C003,5,Highly recommended.
+R001292,S0460,C020,1,Not recommended.
+R001293,S0460,C009,3,Average experience.
+R001294,S0460,C024,1,Poor explanations.
+R001295,S0461,C032,1,Not what I expected.
+R001296,S0461,C010,5,Fantastic content.
+R001297,S0461,C021,4,Great instructor.
+R001298,S0462,C029,1,Content is outdated.
+R001299,S0462,C009,1,I couldn't finish it.
+R001300,S0462,C004,2,Content is outdated.
+R001301,S0462,C020,3,Could be improved.
+R001302,S0463,C004,2,Too difficult.
+R001303,S0463,C032,2,Content is outdated.
+R001304,S0464,C027,1,Needs more examples.
+R001305,S0464,C036,5,Very informative.
+R001306,S0465,C013,2,Not recommended.
+R001307,S0465,C022,1,Poor explanations.
+R001308,S0465,C014,3,Helpful overall.
+R001309,S0465,C027,2,Needs more examples.
+R001310,S0465,C004,1,Not recommended.
+R001311,S0466,C029,3,Helpful overall.
+R001312,S0466,C013,2,Very confusing.
+R001313,S0466,C024,1,Too difficult.
+R001314,S0467,C022,2,Poor explanations.
+R001315,S0468,C008,3,Helpful overall.
+R001316,S0469,C040,4,Practical examples.
+R001317,S0469,C008,1,Not what I expected.
+R001318,S0470,C013,2,Not what I expected.
+R001319,S0470,C038,1,Very confusing.
+R001320,S0470,C003,2,Content is outdated.
+R001321,S0471,C009,5,Loved this course.
+R001322,S0471,C039,5,Practical examples.
+R001323,S0471,C006,2,Not recommended.
+R001324,S0472,C005,2,Needs more examples.
+R001325,S0472,C008,1,Very confusing.
+R001326,S0473,C008,4,Excellent course!
+R001327,S0473,C030,4,Loved this course.
+R001328,S0473,C025,1,Not recommended.
+R001329,S0474,C021,4,Loved this course.
+R001330,S0475,C007,2,Very confusing.
+R001331,S0475,C030,1,Not what I expected.
+R001332,S0475,C023,3,Content was okay.
+R001333,S0475,C001,3,Useful but needs updates.
+R001334,S0476,C020,3,Could be improved.
+R001335,S0476,C039,5,Highly recommended.
+R001336,S0476,C019,3,Could be improved.
+R001337,S0476,C029,2,Content is outdated.
+R001338,S0477,C006,1,Poor explanations.
+R001339,S0477,C007,5,Excellent course!
+R001340,S0478,C015,1,Not recommended.
+R001341,S0479,C031,1,Not recommended.
+R001342,S0479,C020,1,Poor explanations.
+R001343,S0480,C009,5,Great instructor.
+R001344,S0480,C008,2,Very confusing.
+R001345,S0480,C001,1,Content is outdated.
+R001346,S0480,C032,5,Great instructor.
+R001347,S0481,C035,3,Content was okay.
+R001348,S0481,C040,4,Practical examples.
+R001349,S0482,C022,1,Too difficult.
+R001350,S0482,C004,2,Too difficult.
+R001351,S0482,C006,2,I couldn't finish it.
+R001352,S0483,C024,2,Needs more examples.
+R001353,S0483,C033,4,Easy to understand.
+R001354,S0483,C010,3,Some lessons were useful.
+R001355,S0484,C039,1,Poor explanations.
+R001356,S0484,C036,2,I couldn't finish it.
+R001357,S0484,C005,4,Practical examples.
+R001358,S0484,C033,2,Content is outdated.
+R001359,S0484,C007,1,Too difficult.
+R001360,S0485,C003,3,Useful but needs updates.
+R001361,S0485,C020,1,Not recommended.
+R001362,S0485,C029,4,Practical examples.
+R001363,S0485,C024,2,Very confusing.
+R001364,S0486,C004,1,Content is outdated.
+R001365,S0486,C009,2,Not what I expected.
+R001366,S0486,C027,3,Helpful overall.
+R001367,S0486,C037,3,Content was okay.
+R001368,S0486,C007,5,Easy to understand.
+R001369,S0487,C024,2,Not what I expected.
+R001370,S0487,C018,2,Too difficult.
+R001371,S0487,C017,2,Very confusing.
+R001372,S0487,C019,4,Worth every minute.
+R001373,S0489,C025,2,Not recommended.
+R001374,S0489,C009,1,Content is outdated.
+R001375,S0489,C007,2,Poor explanations.
+R001376,S0490,C015,2,Not what I expected.
+R001377,S0490,C023,4,Excellent course!
+R001378,S0490,C036,3,Could be improved.
+R001379,S0491,C040,2,Too difficult.
+R001380,S0492,C022,3,Helpful overall.
+R001381,S0492,C037,2,Very confusing.
+R001382,S0492,C031,1,Very confusing.
+R001383,S0492,C011,4,Not bad.
+R001384,S0492,C016,2,Needs more examples.
+R001385,S0493,C011,5,Easy to understand.
+R001386,S0493,C014,4,Fantastic content.
+R001387,S0493,C032,1,Content is outdated.
+R001388,S0493,C006,2,Not recommended.
+R001389,S0494,C002,3,Useful but needs updates.
+R001390,S0494,C035,2,Poor explanations.
+R001391,S0494,C039,1,Poor explanations.
+R001392,S0494,C026,4,Could be improved.
+R001393,S0495,C025,1,Needs more examples.
+R001394,S0495,C002,2,Needs more examples.
+R001395,S0495,C022,3,Content was okay.
+R001396,S0495,C008,5,Amazing explanations.
+R001397,S0495,C037,3,Average experience.
+R001398,S0496,C008,1,I couldn't finish it.
+R001399,S0496,C011,1,Needs more examples.
+R001400,S0497,C032,5,Worth every minute.
+R001401,S0497,C022,4,Content was okay.
+R001402,S0497,C031,3,Could be improved.
+R001403,S0497,C030,1,Not recommended.
+R001404,S0497,C014,4,Average experience.
+R001405,S0498,C011,3,Not bad.
+R001406,S0498,C032,5,Worth every minute.
+R001407,S0498,C024,5,Fantastic content.
+R001408,S0498,C033,4,Could be improved.
+R001409,S0499,C034,4,Helpful overall.
+R001410,S0499,C014,1,Poor explanations.
+R001411,S0499,C018,1,Needs more examples.
+R001412,S0499,C039,2,I couldn't finish it.
+R001413,S0499,C035,1,Content is outdated.
+R001414,S0500,C019,2,Too difficult.
+R001415,S0500,C007,2,Too difficult.
+R001416,S0501,C038,3,Could be improved.
+R001417,S0501,C027,5,Fantastic content.
+R001418,S0501,C033,4,Useful but needs updates.
+R001419,S0501,C019,1,Needs more examples.
+R001420,S0502,C025,2,Needs more examples.
+R001421,S0502,C016,3,Not bad.
+R001422,S0502,C011,1,Too difficult.
+R001423,S0503,C028,2,Too difficult.
+R001424,S0503,C022,1,Poor explanations.
+R001425,S0504,C021,2,Content is outdated.
+R001426,S0504,C032,5,Excellent course!
+R001427,S0504,C014,4,Very informative.
+R001428,S0505,C039,2,I couldn't finish it.
+R001429,S0506,C003,2,I couldn't finish it.
+R001430,S0507,C032,2,I couldn't finish it.
+R001431,S0507,C011,5,Very informative.
+R001432,S0507,C012,2,Content is outdated.
+R001433,S0508,C023,5,Great instructor.
+R001434,S0508,C009,3,Good course.
+R001435,S0509,C021,3,Average experience.
+R001436,S0509,C005,3,Good course.
+R001437,S0510,C017,4,Very informative.
+R001438,S0510,C037,1,Content is outdated.
+R001439,S0511,C025,4,Average experience.
+R001440,S0511,C008,2,Very confusing.
+R001441,S0511,C018,4,Excellent course!
+R001442,S0511,C011,5,Great instructor.
+R001443,S0511,C040,2,Needs more examples.
+R001444,S0512,C020,4,Amazing explanations.
+R001445,S0513,C020,3,Content was okay.
+R001446,S0513,C004,1,Poor explanations.
+R001447,S0513,C002,2,Needs more examples.
+R001448,S0513,C034,2,Not what I expected.
+R001449,S0514,C010,2,Content is outdated.
+R001450,S0514,C038,1,I couldn't finish it.
+R001451,S0515,C010,5,Loved this course.
+R001452,S0515,C031,4,Excellent course!
+R001453,S0515,C005,1,Very confusing.
+R001454,S0515,C016,2,Content is outdated.
+R001455,S0516,C020,1,Content is outdated.
+R001456,S0516,C035,2,Poor explanations.
+R001457,S0517,C030,4,Helpful overall.
+R001458,S0517,C009,2,Very confusing.
+R001459,S0518,C035,1,Content is outdated.
+R001460,S0518,C002,5,Fantastic content.
+R001461,S0518,C004,2,Too difficult.
+R001462,S0519,C015,2,Needs more examples.
+R001463,S0519,C016,5,Great instructor.
+R001464,S0520,C006,3,Some lessons were useful.
+R001465,S0520,C022,3,Useful but needs updates.
+R001466,S0520,C028,1,Not what I expected.
+R001467,S0520,C002,2,Very confusing.
+R001468,S0521,C030,4,Worth every minute.
+R001469,S0521,C005,5,Easy to understand.
+R001470,S0522,C032,3,Could be improved.
+R001471,S0523,C029,1,Very confusing.
+R001472,S0523,C035,2,I couldn't finish it.
+R001473,S0524,C038,1,Very confusing.
+R001474,S0524,C004,2,Not recommended.
+R001475,S0524,C035,2,Not recommended.
+R001476,S0524,C018,5,Amazing explanations.
+R001477,S0524,C011,4,Amazing explanations.
+R001478,S0525,C033,5,Amazing explanations.
+R001479,S0525,C037,3,Some lessons were useful.
+R001480,S0526,C006,2,Needs more examples.
+R001481,S0526,C009,3,Content was okay.
+R001482,S0526,C021,5,Highly recommended.
+R001483,S0527,C020,4,Practical examples.
+R001484,S0527,C010,2,I couldn't finish it.
+R001485,S0527,C029,3,Could be improved.
+R001486,S0527,C039,1,I couldn't finish it.
+R001487,S0528,C038,3,Helpful overall.
+R001488,S0528,C012,2,Not what I expected.
+R001489,S0528,C039,2,Not recommended.
+R001490,S0528,C030,2,Very confusing.
+R001491,S0529,C037,2,Not what I expected.
+R001492,S0529,C030,5,Worth every minute.
+R001493,S0529,C008,2,Poor explanations.
+R001494,S0529,C010,2,Very confusing.
+R001495,S0530,C017,2,Poor explanations.
+R001496,S0530,C018,1,Not what I expected.
+R001497,S0530,C007,2,Poor explanations.
+R001498,S0530,C026,4,Content was okay.
+R001499,S0531,C031,4,Very informative.
+R001500,S0531,C027,2,Needs more examples.
+R001501,S0532,C024,2,Too difficult.
+R001502,S0532,C035,4,Worth every minute.
+R001503,S0532,C015,1,Needs more examples.
+R001504,S0532,C011,3,Some lessons were useful.
+R001505,S0532,C018,3,Helpful overall.
+R001506,S0533,C039,2,Too difficult.
+R001507,S0533,C024,1,Poor explanations.
+R001508,S0533,C027,4,Good course.
+R001509,S0534,C030,4,Helpful overall.
+R001510,S0534,C024,3,Not bad.
+R001511,S0534,C005,4,Helpful overall.
+R001512,S0534,C006,4,Great instructor.
+R001513,S0534,C014,1,Poor explanations.
+R001514,S0535,C038,2,Needs more examples.
+R001515,S0535,C002,4,Good course.
+R001516,S0535,C023,2,I couldn't finish it.
+R001517,S0535,C026,2,I couldn't finish it.
+R001518,S0535,C022,1,Very confusing.
+R001519,S0536,C027,5,Fantastic content.
+R001520,S0537,C032,4,Useful but needs updates.
+R001521,S0537,C037,2,Not what I expected.
+R001522,S0537,C001,5,Loved this course.
+R001523,S0537,C013,2,Very confusing.
+R001524,S0537,C006,4,Easy to understand.
+R001525,S0538,C003,2,Too difficult.
+R001526,S0538,C025,2,Not recommended.
+R001527,S0538,C015,2,Poor explanations.
+R001528,S0538,C032,2,Poor explanations.
+R001529,S0539,C027,2,Poor explanations.
+R001530,S0539,C023,3,Content was okay.
+R001531,S0539,C035,3,Useful but needs updates.
+R001532,S0540,C033,2,Needs more examples.
+R001533,S0540,C038,1,Needs more examples.
+R001534,S0540,C035,4,Worth every minute.
+R001535,S0540,C003,4,Great instructor.
+R001536,S0541,C005,3,Content was okay.
+R001537,S0541,C002,3,Some lessons were useful.
+R001538,S0542,C032,5,Loved this course.
+R001539,S0542,C010,1,Too difficult.
+R001540,S0543,C039,1,Not what I expected.
+R001541,S0544,C029,2,Too difficult.
+R001542,S0544,C009,3,Helpful overall.
+R001543,S0545,C011,2,Not recommended.
+R001544,S0545,C009,3,Not bad.
+R001545,S0545,C007,4,Highly recommended.
+R001546,S0545,C024,3,Could be improved.
+R001547,S0545,C032,2,Poor explanations.
+R001548,S0546,C013,3,Helpful overall.
+R001549,S0547,C004,5,Highly recommended.
+R001550,S0548,C003,3,Not bad.
+R001551,S0548,C015,1,Not what I expected.
+R001552,S0548,C029,3,Some lessons were useful.
+R001553,S0548,C026,2,Poor explanations.
+R001554,S0548,C007,5,Highly recommended.
+R001555,S0549,C006,4,Worth every minute.
+R001556,S0549,C029,1,Not what I expected.
+R001557,S0550,C038,1,I couldn't finish it.
+R001558,S0551,C020,2,Too difficult.
+R001559,S0551,C029,2,Content is outdated.
+R001560,S0551,C022,1,Content is outdated.
+R001561,S0551,C031,1,Very confusing.
+R001562,S0552,C033,4,Helpful overall.
+R001563,S0552,C007,2,Too difficult.
+R001564,S0552,C002,3,Useful but needs updates.
+R001565,S0553,C039,4,Excellent course!
+R001566,S0553,C024,3,Content was okay.
+R001567,S0553,C029,1,Content is outdated.
+R001568,S0553,C019,1,Too difficult.
+R001569,S0553,C012,2,Poor explanations.
+R001570,S0554,C029,3,Could be improved.
+R001571,S0554,C033,1,Poor explanations.
+R001572,S0555,C032,1,Not what I expected.
+R001573,S0555,C033,4,Loved this course.
+R001574,S0555,C001,5,Excellent course!
+R001575,S0555,C008,5,Great instructor.
+R001576,S0556,C011,5,Very informative.
+R001577,S0556,C029,1,Very confusing.
+R001578,S0556,C036,5,Loved this course.
+R001579,S0557,C026,5,Highly recommended.
+R001580,S0558,C002,1,Too difficult.
+R001581,S0559,C020,2,Too difficult.
+R001582,S0559,C016,2,Poor explanations.
+R001583,S0560,C009,1,Not recommended.
+R001584,S0560,C028,2,Very confusing.
+R001585,S0561,C008,3,Not bad.
+R001586,S0561,C039,2,Content is outdated.
+R001587,S0561,C029,5,Practical examples.
+R001588,S0562,C008,2,Not recommended.
+R001589,S0562,C013,4,Content was okay.
+R001590,S0562,C005,2,Not what I expected.
+R001591,S0563,C031,1,Not what I expected.
+R001592,S0563,C017,2,Not what I expected.
+R001593,S0563,C034,3,Average experience.
+R001594,S0564,C020,2,Needs more examples.
+R001595,S0565,C001,4,Some lessons were useful.
+R001596,S0565,C002,4,Content was okay.
+R001597,S0565,C015,1,I couldn't finish it.
+R001598,S0566,C031,1,Poor explanations.
+R001599,S0566,C027,1,Very confusing.
+R001600,S0566,C037,1,Poor explanations.
+R001601,S0566,C024,4,Good course.
+R001602,S0567,C001,2,Too difficult.
+R001603,S0567,C016,1,Not recommended.
+R001604,S0567,C007,4,Good course.
+R001605,S0568,C036,3,Not bad.
+R001606,S0568,C027,1,Not recommended.
+R001607,S0568,C026,4,Practical examples.
+R001608,S0569,C038,4,Some lessons were useful.
+R001609,S0569,C001,3,Not bad.
+R001610,S0569,C004,2,I couldn't finish it.
+R001611,S0569,C023,5,Practical examples.
+R001612,S0569,C035,3,Average experience.
+R001613,S0570,C009,2,Not what I expected.
+R001614,S0570,C030,5,Loved this course.
+R001615,S0570,C017,4,Amazing explanations.
+R001616,S0570,C021,3,Helpful overall.
+R001617,S0571,C003,1,Needs more examples.
+R001618,S0571,C031,5,Highly recommended.
+R001619,S0571,C012,3,Content was okay.
+R001620,S0572,C008,2,Very confusing.
+R001621,S0572,C015,3,Not bad.
+R001622,S0573,C037,1,Needs more examples.
+R001623,S0573,C013,1,Too difficult.
+R001624,S0573,C006,2,Content is outdated.
+R001625,S0574,C002,4,Very informative.
+R001626,S0574,C014,2,Needs more examples.
+R001627,S0574,C027,5,Very informative.
+R001628,S0575,C006,1,Poor explanations.
+R001629,S0575,C017,4,Fantastic content.
+R001630,S0575,C034,5,Loved this course.
+R001631,S0575,C002,3,Some lessons were useful.
+R001632,S0576,C024,2,Too difficult.
+R001633,S0576,C032,1,Not what I expected.
+R001634,S0576,C011,2,Not what I expected.
+R001635,S0577,C008,1,Too difficult.
+R001636,S0577,C033,5,Practical examples.
+R001637,S0577,C032,2,Needs more examples.
+R001638,S0577,C024,1,Too difficult.
+R001639,S0578,C017,3,Useful but needs updates.
+R001640,S0578,C016,2,Poor explanations.
+R001641,S0578,C032,5,Fantastic content.
+R001642,S0579,C026,2,Poor explanations.
+R001643,S0579,C021,4,Highly recommended.
+R001644,S0579,C001,2,Poor explanations.
+R001645,S0579,C017,4,Practical examples.
+R001646,S0580,C003,1,Needs more examples.
+R001647,S0580,C011,2,Not what I expected.
+R001648,S0580,C021,1,Poor explanations.
+R001649,S0582,C013,3,Could be improved.
+R001650,S0582,C028,2,Very confusing.
+R001651,S0582,C027,2,Not recommended.
+R001652,S0582,C019,3,Some lessons were useful.
+R001653,S0582,C008,3,Average experience.
+R001654,S0583,C018,2,Poor explanations.
+R001655,S0583,C024,1,Not what I expected.
+R001656,S0584,C004,1,Poor explanations.
+R001657,S0584,C039,1,Needs more examples.
+R001658,S0584,C009,3,Useful but needs updates.
+R001659,S0584,C011,1,Needs more examples.
+R001660,S0584,C024,3,Not bad.
+R001661,S0585,C033,3,Content was okay.
+R001662,S0585,C027,2,Not recommended.
+R001663,S0585,C025,3,Some lessons were useful.
+R001664,S0585,C006,4,Could be improved.
+R001665,S0586,C027,2,Needs more examples.
+R001666,S0586,C015,4,Very informative.
+R001667,S0586,C038,1,Poor explanations.
+R001668,S0586,C032,2,Poor explanations.
+R001669,S0586,C014,2,Needs more examples.
+R001670,S0587,C019,2,Poor explanations.
+R001671,S0587,C014,1,Content is outdated.
+R001672,S0588,C038,4,Good course.
+R001673,S0588,C013,2,Not recommended.
+R001674,S0588,C004,3,Average experience.
+R001675,S0589,C028,2,Too difficult.
+R001676,S0589,C014,4,Great instructor.
+R001677,S0589,C009,2,Needs more examples.
+R001678,S0590,C029,4,Fantastic content.
+R001679,S0590,C014,4,Amazing explanations.
+R001680,S0591,C002,1,Not recommended.
+R001681,S0591,C025,3,Good course.
+R001682,S0592,C018,1,Not what I expected.
+R001683,S0592,C002,2,Content is outdated.
+R001684,S0593,C028,3,Not bad.
+R001685,S0593,C022,3,Useful but needs updates.
+R001686,S0594,C030,2,Not what I expected.
+R001687,S0594,C028,2,Content is outdated.
+R001688,S0595,C016,3,Average experience.
+R001689,S0595,C039,1,Content is outdated.
+R001690,S0595,C009,3,Average experience.
+R001691,S0595,C010,5,Great instructor.
+R001692,S0596,C001,3,Helpful overall.
+R001693,S0596,C002,3,Good course.
+R001694,S0596,C004,5,Easy to understand.
+R001695,S0596,C031,3,Useful but needs updates.
+R001696,S0597,C037,2,Too difficult.
+R001697,S0597,C002,5,Excellent course!
+R001698,S0597,C033,2,Content is outdated.
+R001699,S0597,C001,1,Not what I expected.
+R001700,S0597,C015,3,Content was okay.
+R001701,S0598,C005,3,Good course.
+R001702,S0598,C002,2,Not what I expected.
+R001703,S0598,C025,1,Too difficult.
+R001704,S0598,C007,2,Very confusing.
+R001705,S0599,C003,2,Poor explanations.
+R001706,S0600,C031,2,Too difficult.
+R001707,S0600,C023,1,Poor explanations.
+R001708,S0601,C038,4,Helpful overall.
+R001709,S0601,C015,5,Very informative.
+R001710,S0601,C040,1,Very confusing.
+R001711,S0601,C011,3,Some lessons were useful.
+R001712,S0602,C024,3,Average experience.
+R001713,S0602,C023,5,Great instructor.
+R001714,S0602,C025,2,Poor explanations.
+R001715,S0603,C003,1,Not recommended.
+R001716,S0603,C034,4,Worth every minute.
+R001717,S0604,C028,2,Not what I expected.
+R001718,S0604,C040,2,Not recommended.
+R001719,S0605,C007,3,Helpful overall.
+R001720,S0605,C002,4,Highly recommended.
+R001721,S0606,C034,2,Poor explanations.
+R001722,S0606,C025,3,Good course.
+R001723,S0606,C007,5,Excellent course!
+R001724,S0607,C004,5,Easy to understand.
+R001725,S0607,C020,5,Highly recommended.
+R001726,S0607,C038,5,Highly recommended.
+R001727,S0607,C021,5,Fantastic content.
+R001728,S0608,C005,2,Poor explanations.
+R001729,S0608,C023,1,Not recommended.
+R001730,S0608,C033,3,Some lessons were useful.
+R001731,S0609,C019,1,I couldn't finish it.
+R001732,S0609,C004,1,Content is outdated.
+R001733,S0609,C033,4,Not bad.
+R001734,S0610,C017,5,Great instructor.
+R001735,S0610,C007,3,Content was okay.
+R001736,S0610,C010,4,Easy to understand.
+R001737,S0610,C028,4,Fantastic content.
+R001738,S0611,C028,3,Useful but needs updates.
+R001739,S0611,C031,5,Very informative.
+R001740,S0611,C024,3,Some lessons were useful.
+R001741,S0611,C006,5,Easy to understand.
+R001742,S0611,C018,5,Excellent course!
+R001743,S0612,C022,4,Helpful overall.
+R001744,S0612,C016,2,Not what I expected.
+R001745,S0613,C024,1,Content is outdated.
+R001746,S0613,C026,3,Could be improved.
+R001747,S0613,C008,1,Very confusing.
+R001748,S0613,C014,4,Worth every minute.
+R001749,S0614,C035,2,Too difficult.
+R001750,S0614,C003,2,Poor explanations.
+R001751,S0614,C023,4,Highly recommended.
+R001752,S0615,C003,1,Poor explanations.
+R001753,S0616,C009,2,Needs more examples.
+R001754,S0616,C018,5,Highly recommended.
+R001755,S0616,C001,1,Very confusing.
+R001756,S0616,C015,3,Helpful overall.
+R001757,S0617,C018,2,Not what I expected.
+R001758,S0617,C029,1,Very confusing.
+R001759,S0617,C038,2,Not recommended.
+R001760,S0618,C025,5,Highly recommended.
+R001761,S0618,C005,2,Not recommended.
+R001762,S0618,C016,3,Could be improved.
+R001763,S0619,C024,4,Fantastic content.
+R001764,S0619,C020,3,Average experience.
+R001765,S0620,C014,1,Very confusing.
+R001766,S0620,C037,3,Not bad.
+R001767,S0622,C015,4,Easy to understand.
+R001768,S0622,C022,3,Some lessons were useful.
+R001769,S0623,C003,3,Not bad.
+R001770,S0623,C023,2,Not what I expected.
+R001771,S0623,C015,2,Too difficult.
+R001772,S0623,C037,2,I couldn't finish it.
+R001773,S0624,C010,4,Average experience.
+R001774,S0624,C007,2,Not what I expected.
+R001775,S0625,C009,5,Highly recommended.
+R001776,S0625,C019,4,Helpful overall.
+R001777,S0625,C038,1,Too difficult.
+R001778,S0626,C003,1,Needs more examples.
+R001779,S0627,C002,5,Very informative.
+R001780,S0627,C031,3,Some lessons were useful.
+R001781,S0628,C006,5,Highly recommended.
+R001782,S0628,C029,2,Poor explanations.
+R001783,S0628,C030,1,I couldn't finish it.
+R001784,S0629,C032,1,Poor explanations.
+R001785,S0630,C030,1,Needs more examples.
+R001786,S0630,C016,5,Great instructor.
+R001787,S0630,C032,2,Needs more examples.
+R001788,S0631,C026,2,I couldn't finish it.
+R001789,S0631,C015,3,Not bad.
+R001790,S0632,C032,2,Not what I expected.
+R001791,S0633,C030,2,Very confusing.
+R001792,S0633,C007,2,I couldn't finish it.
+R001793,S0634,C034,4,Not bad.
+R001794,S0634,C013,1,Needs more examples.
+R001795,S0634,C004,3,Not bad.
+R001796,S0634,C029,2,Poor explanations.
+R001797,S0634,C031,4,Great instructor.
+R001798,S0635,C001,3,Average experience.
+R001799,S0635,C035,1,I couldn't finish it.
+R001800,S0637,C030,4,Excellent course!
+R001801,S0637,C012,2,Not recommended.
+R001802,S0638,C001,1,Very confusing.
+R001803,S0638,C037,3,Average experience.
+R001804,S0638,C020,2,Not what I expected.
+R001805,S0638,C003,2,Not recommended.
+R001806,S0638,C014,2,Not recommended.
+R001807,S0639,C008,4,Worth every minute.
+R001808,S0640,C026,2,Needs more examples.
+R001809,S0640,C018,3,Helpful overall.
+R001810,S0640,C040,3,Average experience.
+R001811,S0640,C031,2,Not recommended.
+R001812,S0641,C003,3,Average experience.
+R001813,S0641,C028,2,Not what I expected.
+R001814,S0641,C031,1,Too difficult.
+R001815,S0642,C015,4,Could be improved.
+R001816,S0643,C034,5,Amazing explanations.
+R001817,S0643,C036,2,Not what I expected.
+R001818,S0643,C023,2,I couldn't finish it.
+R001819,S0643,C028,3,Good course.
+R001820,S0644,C035,5,Excellent course!
+R001821,S0644,C018,2,Too difficult.
+R001822,S0644,C024,3,Good course.
+R001823,S0644,C034,2,Poor explanations.
+R001824,S0644,C003,2,Needs more examples.
+R001825,S0645,C013,1,Content is outdated.
+R001826,S0645,C001,3,Some lessons were useful.
+R001827,S0645,C025,5,Amazing explanations.
+R001828,S0645,C031,1,Not what I expected.
+R001829,S0646,C037,4,Fantastic content.
+R001830,S0646,C027,5,Amazing explanations.
+R001831,S0646,C008,3,Not bad.
+R001832,S0646,C040,4,Some lessons were useful.
+R001833,S0647,C018,1,Very confusing.
+R001834,S0647,C002,2,Not what I expected.
+R001835,S0647,C008,2,Poor explanations.
+R001836,S0647,C027,5,Fantastic content.
+R001837,S0648,C038,3,Content was okay.
+R001838,S0648,C014,2,Needs more examples.
+R001839,S0648,C028,2,Not recommended.
+R001840,S0648,C002,4,Could be improved.
+R001841,S0649,C025,2,I couldn't finish it.
+R001842,S0649,C022,3,Content was okay.
+R001843,S0649,C002,1,Very confusing.
+R001844,S0649,C020,1,Too difficult.
+R001845,S0650,C011,2,I couldn't finish it.
+R001846,S0650,C017,2,Not recommended.
+R001847,S0651,C030,2,Very confusing.
+R001848,S0651,C040,2,I couldn't finish it.
+R001849,S0651,C007,2,I couldn't finish it.
+R001850,S0651,C014,5,Fantastic content.
+R001851,S0652,C031,5,Great instructor.
+R001852,S0652,C010,4,Practical examples.
+R001853,S0652,C039,5,Practical examples.
+R001854,S0653,C021,1,Not recommended.
+R001855,S0653,C003,3,Helpful overall.
+R001856,S0654,C038,2,Content is outdated.
+R001857,S0654,C010,1,Needs more examples.
+R001858,S0654,C026,2,Needs more examples.
+R001859,S0654,C034,2,Content is outdated.
+R001860,S0654,C011,3,Average experience.
+R001861,S0655,C022,2,I couldn't finish it.
+R001862,S0655,C011,4,Practical examples.
+R001863,S0655,C006,3,Average experience.
+R001864,S0655,C037,2,Poor explanations.
+R001865,S0656,C010,1,Too difficult.
+R001866,S0656,C034,2,Poor explanations.
+R001867,S0656,C023,2,Not what I expected.
+R001868,S0657,C018,5,Very informative.
+R001869,S0657,C037,2,Very confusing.
+R001870,S0657,C030,3,Could be improved.
+R001871,S0658,C005,4,Some lessons were useful.
+R001872,S0658,C036,3,Content was okay.
+R001873,S0658,C018,4,Highly recommended.
+R001874,S0659,C006,1,Needs more examples.
+R001875,S0659,C039,1,Too difficult.
+R001876,S0660,C001,2,Not what I expected.
+R001877,S0660,C010,3,Could be improved.
+R001878,S0660,C020,4,Very informative.
+R001879,S0662,C012,4,Easy to understand.
+R001880,S0662,C014,2,I couldn't finish it.
+R001881,S0662,C009,5,Amazing explanations.
+R001882,S0662,C019,1,Not what I expected.
+R001883,S0663,C024,1,I couldn't finish it.
+R001884,S0664,C029,3,Helpful overall.
+R001885,S0664,C002,4,Useful but needs updates.
+R001886,S0664,C019,3,Useful but needs updates.
+R001887,S0664,C032,1,I couldn't finish it.
+R001888,S0665,C016,3,Good course.
+R001889,S0665,C038,1,Needs more examples.
+R001890,S0665,C033,3,Helpful overall.
+R001891,S0666,C031,2,Content is outdated.
+R001892,S0666,C015,1,Not what I expected.
+R001893,S0667,C001,5,Easy to understand.
+R001894,S0667,C029,1,Not what I expected.
+R001895,S0668,C017,3,Useful but needs updates.
+R001896,S0668,C037,4,Highly recommended.
+R001897,S0668,C015,3,Good course.
+R001898,S0668,C013,2,Content is outdated.
+R001899,S0669,C028,4,Amazing explanations.
+R001900,S0669,C016,2,Too difficult.
+R001901,S0670,C033,1,I couldn't finish it.
+R001902,S0670,C010,3,Could be improved.
+R001903,S0670,C007,4,Not bad.
+R001904,S0671,C021,2,I couldn't finish it.
+R001905,S0671,C024,3,Average experience.
+R001906,S0672,C030,2,Very confusing.
+R001907,S0672,C001,4,Practical examples.
+R001908,S0672,C023,1,Poor explanations.
+R001909,S0673,C033,1,Content is outdated.
+R001910,S0673,C034,2,Poor explanations.
+R001911,S0674,C018,3,Content was okay.
+R001912,S0674,C001,1,Needs more examples.
+R001913,S0674,C012,2,I couldn't finish it.
+R001914,S0675,C006,1,Poor explanations.
+R001915,S0675,C016,5,Loved this course.
+R001916,S0675,C028,1,Very confusing.
+R001917,S0676,C013,2,I couldn't finish it.
+R001918,S0676,C009,2,I couldn't finish it.
+R001919,S0676,C029,1,Too difficult.
+R001920,S0676,C008,3,Helpful overall.
+R001921,S0676,C002,3,Some lessons were useful.
+R001922,S0677,C017,4,Could be improved.
+R001923,S0677,C036,2,Very confusing.
+R001924,S0678,C032,3,Could be improved.
+R001925,S0679,C014,5,Amazing explanations.
+R001926,S0679,C016,2,Very confusing.
+R001927,S0679,C035,1,Not recommended.
+R001928,S0680,C005,4,Worth every minute.
+R001929,S0680,C026,3,Some lessons were useful.
+R001930,S0680,C007,2,Very confusing.
+R001931,S0681,C024,2,Too difficult.
+R001932,S0682,C022,3,Useful but needs updates.
+R001933,S0682,C013,5,Worth every minute.
+R001934,S0683,C020,1,Very confusing.
+R001935,S0684,C035,3,Helpful overall.
+R001936,S0684,C003,3,Average experience.
+R001937,S0685,C012,5,Amazing explanations.
+R001938,S0686,C033,4,Fantastic content.
+R001939,S0686,C005,4,Some lessons were useful.
+R001940,S0686,C011,2,Not recommended.
+R001941,S0687,C031,3,Could be improved.
+R001942,S0687,C016,5,Great instructor.
+R001943,S0687,C006,4,Content was okay.
+R001944,S0688,C010,4,Average experience.
+R001945,S0688,C040,5,Excellent course!
+R001946,S0689,C032,2,Not what I expected.
+R001947,S0689,C037,1,Too difficult.
+R001948,S0689,C019,2,Needs more examples.
+R001949,S0689,C014,4,Excellent course!
+R001950,S0690,C003,2,Poor explanations.
+R001951,S0690,C004,4,Loved this course.
+R001952,S0690,C026,1,I couldn't finish it.
+R001953,S0691,C010,3,Content was okay.
+R001954,S0692,C009,2,Very confusing.
+R001955,S0693,C038,2,Needs more examples.
+R001956,S0693,C037,2,Content is outdated.
+R001957,S0693,C015,2,Content is outdated.
+R001958,S0694,C025,2,Very confusing.
+R001959,S0695,C040,1,Too difficult.
+R001960,S0695,C035,4,Some lessons were useful.
+R001961,S0696,C011,1,Very confusing.
+R001962,S0696,C035,1,Not what I expected.
+R001963,S0696,C020,5,Excellent course!
+R001964,S0697,C010,4,Good course.
+R001965,S0698,C001,1,Very confusing.
+R001966,S0699,C017,3,Content was okay.
+R001967,S0700,C034,5,Practical examples.
+R001968,S0701,C009,1,Needs more examples.
+R001969,S0701,C027,5,Practical examples.
+R001970,S0702,C014,3,Could be improved.
+R001971,S0702,C012,2,Poor explanations.
+R001972,S0703,C024,1,Poor explanations.
+R001973,S0703,C005,3,Good course.
+R001974,S0703,C014,3,Helpful overall.
+R001975,S0704,C014,4,Content was okay.
+R001976,S0704,C036,2,Content is outdated.
+R001977,S0704,C002,4,Not bad.
+R001978,S0705,C035,4,Excellent course!
+R001979,S0705,C040,3,Some lessons were useful.
+R001980,S0705,C039,1,Needs more examples.
+R001981,S0705,C037,3,Helpful overall.
+R001982,S0706,C034,3,Some lessons were useful.
+R001983,S0706,C030,4,Good course.
+R001984,S0707,C005,3,Average experience.
+R001985,S0707,C021,2,Needs more examples.
+R001986,S0708,C039,1,Content is outdated.
+R001987,S0709,C019,3,Content was okay.
+R001988,S0709,C018,3,Could be improved.
+R001989,S0710,C029,5,Excellent course!
+R001990,S0710,C020,5,Excellent course!
+R001991,S0710,C011,2,Needs more examples.
+R001992,S0710,C016,1,I couldn't finish it.
+R001993,S0711,C020,3,Good course.
+R001994,S0711,C011,2,Very confusing.
+R001995,S0712,C036,1,Poor explanations.
+R001996,S0712,C026,1,Needs more examples.
+R001997,S0712,C038,3,Not bad.
+R001998,S0712,C005,4,Amazing explanations.
+R001999,S0713,C012,4,Helpful overall.
+R002000,S0713,C023,2,Not recommended.
+R002001,S0713,C026,4,Amazing explanations.
+R002002,S0714,C018,1,Not recommended.
+R002003,S0715,C009,2,Very confusing.
+R002004,S0715,C013,2,Not recommended.
+R002005,S0716,C037,4,Not bad.
+R002006,S0716,C020,2,I couldn't finish it.
+R002007,S0717,C027,5,Amazing explanations.
+R002008,S0717,C006,2,Very confusing.
+R002009,S0718,C025,4,Average experience.
+R002010,S0718,C002,4,Amazing explanations.
+R002011,S0719,C038,4,Average experience.
+R002012,S0719,C024,4,Very informative.
+R002013,S0719,C037,3,Useful but needs updates.
+R002014,S0719,C006,5,Amazing explanations.
+R002015,S0720,C020,2,Poor explanations.
+R002016,S0720,C027,3,Content was okay.
+R002017,S0720,C038,5,Practical examples.
+R002018,S0721,C037,3,Content was okay.
+R002019,S0721,C010,2,Very confusing.
+R002020,S0722,C001,2,Too difficult.
+R002021,S0722,C007,1,I couldn't finish it.
+R002022,S0723,C023,5,Great instructor.
+R002023,S0723,C004,3,Could be improved.
+R002024,S0724,C032,3,Useful but needs updates.
+R002025,S0724,C004,1,I couldn't finish it.
+R002026,S0725,C012,2,Very confusing.
+R002027,S0725,C017,2,Poor explanations.
+R002028,S0726,C036,3,Could be improved.
+R002029,S0726,C001,2,Too difficult.
+R002030,S0726,C008,5,Very informative.
+R002031,S0727,C036,5,Loved this course.
+R002032,S0727,C020,2,Too difficult.
+R002033,S0727,C010,1,Not what I expected.
+R002034,S0728,C012,2,Too difficult.
+R002035,S0728,C009,4,Excellent course!
+R002036,S0729,C010,2,Not what I expected.
+R002037,S0730,C017,4,Could be improved.
+R002038,S0730,C040,2,I couldn't finish it.
+R002039,S0730,C020,4,Content was okay.
+R002040,S0731,C009,3,Not bad.
+R002041,S0731,C010,4,Could be improved.
+R002042,S0731,C028,2,Content is outdated.
+R002043,S0732,C023,2,Not what I expected.
+R002044,S0732,C010,1,I couldn't finish it.
+R002045,S0732,C004,4,Useful but needs updates.
+R002046,S0732,C011,1,Poor explanations.
+R002047,S0732,C003,5,Loved this course.
+R002048,S0733,C029,3,Not bad.
+R002049,S0734,C002,5,Worth every minute.
+R002050,S0734,C028,2,Very confusing.
+R002051,S0734,C014,4,Content was okay.
+R002052,S0735,C021,5,Very informative.
+R002053,S0735,C039,1,Poor explanations.
+R002054,S0735,C012,4,Content was okay.
+R002055,S0736,C003,2,Very confusing.
+R002056,S0736,C031,4,Not bad.
+R002057,S0737,C020,3,Helpful overall.
+R002058,S0737,C016,2,Too difficult.
+R002059,S0737,C035,1,Not recommended.
+R002060,S0737,C008,4,Could be improved.
+R002061,S0738,C030,3,Average experience.
+R002062,S0738,C014,2,Very confusing.
+R002063,S0738,C031,4,Some lessons were useful.
+R002064,S0738,C024,4,Helpful overall.
+R002065,S0738,C018,5,Worth every minute.
+R002066,S0739,C016,4,Worth every minute.
+R002067,S0739,C001,3,Helpful overall.
+R002068,S0740,C021,2,Not what I expected.
+R002069,S0740,C031,4,Easy to understand.
+R002070,S0740,C008,4,Not bad.
+R002071,S0740,C035,4,Great instructor.
+R002072,S0741,C009,2,Not recommended.
+R002073,S0742,C009,4,Fantastic content.
+R002074,S0742,C010,5,Easy to understand.
+R002075,S0743,C009,2,Content is outdated.
+R002076,S0743,C008,4,Average experience.
+R002077,S0744,C005,3,Some lessons were useful.
+R002078,S0744,C030,1,Poor explanations.
+R002079,S0744,C003,1,Poor explanations.
+R002080,S0745,C015,2,Poor explanations.
+R002081,S0745,C012,2,I couldn't finish it.
+R002082,S0745,C028,1,Not recommended.
+R002083,S0746,C017,5,Practical examples.
+R002084,S0746,C016,1,Not recommended.
+R002085,S0746,C012,2,Not recommended.
+R002086,S0746,C011,4,Good course.
+R002087,S0746,C003,4,Useful but needs updates.
+R002088,S0747,C031,1,Needs more examples.
+R002089,S0748,C016,2,Not recommended.
+R002090,S0748,C040,5,Practical examples.
+R002091,S0748,C012,2,Too difficult.
+R002092,S0749,C040,3,Good course.
+R002093,S0749,C020,3,Good course.
+R002094,S0749,C037,2,I couldn't finish it.
+R002095,S0750,C028,1,Poor explanations.
+R002096,S0750,C022,1,Poor explanations.
+R002097,S0750,C016,3,Content was okay.
+R002098,S0751,C020,2,Not recommended.
+R002099,S0752,C033,4,Easy to understand.
+R002100,S0752,C037,4,Easy to understand.
+R002101,S0752,C040,3,Useful but needs updates.
+R002102,S0752,C010,2,Not what I expected.
+R002103,S0753,C018,2,Content is outdated.
+R002104,S0753,C020,1,Content is outdated.
+R002105,S0754,C026,2,Needs more examples.
+R002106,S0754,C033,3,Not bad.
+R002107,S0755,C004,4,Practical examples.
+R002108,S0755,C022,2,I couldn't finish it.
+R002109,S0755,C012,5,Fantastic content.
+R002110,S0756,C005,1,Content is outdated.
+R002111,S0756,C006,2,Not what I expected.
+R002112,S0756,C036,2,Not what I expected.
+R002113,S0757,C002,2,Poor explanations.
+R002114,S0757,C013,1,Too difficult.
+R002115,S0757,C010,5,Great instructor.
+R002116,S0757,C027,5,Worth every minute.
+R002117,S0758,C006,1,Not recommended.
+R002118,S0758,C015,1,I couldn't finish it.
+R002119,S0759,C004,4,Easy to understand.
+R002120,S0759,C036,1,Content is outdated.
+R002121,S0760,C004,1,Very confusing.
+R002122,S0760,C026,2,Needs more examples.
+R002123,S0761,C016,2,Too difficult.
+R002124,S0761,C008,1,I couldn't finish it.
+R002125,S0761,C005,3,Not bad.
+R002126,S0761,C002,2,Very confusing.
+R002127,S0761,C020,5,Fantastic content.
+R002128,S0762,C022,3,Good course.
+R002129,S0762,C029,1,Poor explanations.
+R002130,S0762,C031,2,Not what I expected.
+R002131,S0763,C014,4,Useful but needs updates.
+R002132,S0763,C009,3,Average experience.
+R002133,S0763,C006,4,Helpful overall.
+R002134,S0763,C005,3,Helpful overall.
+R002135,S0764,C006,2,Not what I expected.
+R002136,S0764,C016,2,Content is outdated.
+R002137,S0765,C003,3,Good course.
+R002138,S0765,C032,4,Useful but needs updates.
+R002139,S0766,C008,1,Too difficult.
+R002140,S0766,C017,2,Not what I expected.
+R002141,S0767,C005,5,Very informative.
+R002142,S0767,C030,4,Content was okay.
+R002143,S0767,C016,3,Content was okay.
+R002144,S0767,C014,3,Useful but needs updates.
+R002145,S0767,C009,2,I couldn't finish it.
+R002146,S0768,C034,1,Not what I expected.
+R002147,S0768,C008,4,Useful but needs updates.
+R002148,S0769,C015,3,Useful but needs updates.
+R002149,S0769,C004,3,Helpful overall.
+R002150,S0770,C011,3,Good course.
+R002151,S0770,C025,1,I couldn't finish it.
+R002152,S0770,C022,1,I couldn't finish it.
+R002153,S0770,C001,3,Content was okay.
+R002154,S0771,C028,2,Needs more examples.
+R002155,S0771,C005,1,Content is outdated.
+R002156,S0771,C021,1,Not recommended.
+R002157,S0771,C025,4,Excellent course!
+R002158,S0772,C007,1,Poor explanations.
+R002159,S0772,C021,3,Content was okay.
+R002160,S0773,C020,1,Needs more examples.
+R002161,S0773,C014,5,Very informative.
+R002162,S0773,C031,1,Content is outdated.
+R002163,S0773,C024,5,Fantastic content.
+R002164,S0773,C007,4,Loved this course.
+R002165,S0774,C006,3,Good course.
+R002166,S0774,C009,1,Needs more examples.
+R002167,S0775,C037,2,Needs more examples.
+R002168,S0775,C025,4,Fantastic content.
+R002169,S0775,C015,2,Not recommended.
+R002170,S0776,C026,2,Not what I expected.
+R002171,S0776,C003,3,Average experience.
+R002172,S0776,C025,1,Very confusing.
+R002173,S0777,C018,1,Very confusing.
+R002174,S0777,C026,2,Not recommended.
+R002175,S0778,C001,2,I couldn't finish it.
+R002176,S0778,C035,5,Excellent course!
+R002177,S0778,C004,4,Content was okay.
+R002178,S0779,C024,3,Good course.
+R002179,S0780,C036,1,Poor explanations.
+R002180,S0780,C034,1,Not what I expected.
+R002181,S0780,C024,2,Content is outdated.
+R002182,S0780,C011,5,Amazing explanations.
+R002183,S0780,C028,2,Not recommended.
+R002184,S0781,C017,1,Too difficult.
+R002185,S0781,C022,3,Average experience.
+R002186,S0781,C013,2,I couldn't finish it.
+R002187,S0781,C025,1,Needs more examples.
+R002188,S0781,C009,1,Needs more examples.
+R002189,S0782,C010,2,Too difficult.
+R002190,S0782,C039,2,Not what I expected.
+R002191,S0783,C014,1,Needs more examples.
+R002192,S0783,C008,5,Great instructor.
+R002193,S0784,C035,2,Not recommended.
+R002194,S0784,C027,3,Some lessons were useful.
+R002195,S0784,C028,4,Easy to understand.
+R002196,S0784,C017,4,Worth every minute.
+R002197,S0785,C039,2,Needs more examples.
+R002198,S0785,C032,3,Some lessons were useful.
+R002199,S0785,C027,1,Poor explanations.
+R002200,S0786,C006,3,Not bad.
+R002201,S0786,C032,2,Not recommended.
+R002202,S0787,C014,2,Very confusing.
+R002203,S0787,C028,2,Not recommended.
+R002204,S0788,C016,1,Poor explanations.
+R002205,S0788,C037,3,Good course.
+R002206,S0789,C040,1,Not recommended.
+R002207,S0789,C019,4,Fantastic content.
+R002208,S0789,C032,4,Useful but needs updates.
+R002209,S0789,C022,4,Great instructor.
+R002210,S0790,C015,2,Needs more examples.
+R002211,S0790,C004,1,Poor explanations.
+R002212,S0791,C021,5,Loved this course.
+R002213,S0791,C019,3,Not bad.
+R002214,S0791,C014,2,Needs more examples.
+R002215,S0792,C033,1,Poor explanations.
+R002216,S0792,C034,2,Content is outdated.
+R002217,S0792,C039,2,Not what I expected.
+R002218,S0793,C023,1,Not what I expected.
+R002219,S0793,C001,1,Not recommended.
+R002220,S0794,C012,4,Average experience.
+R002221,S0794,C001,1,Too difficult.
+R002222,S0794,C005,1,Needs more examples.
+R002223,S0794,C019,2,Content is outdated.
+R002224,S0794,C029,4,Some lessons were useful.
+R002225,S0795,C021,4,Excellent course!
+R002226,S0795,C024,1,Content is outdated.
+R002227,S0795,C022,2,I couldn't finish it.
+R002228,S0795,C011,2,Very confusing.
+R002229,S0796,C029,2,I couldn't finish it.
+R002230,S0797,C039,2,Not what I expected.
+R002231,S0798,C037,5,Practical examples.
+R002232,S0798,C022,2,I couldn't finish it.
+R002233,S0798,C034,5,Great instructor.
+R002234,S0798,C023,2,Too difficult.
+R002235,S0799,C008,2,Very confusing.
+R002236,S0799,C026,2,Too difficult.
+R002237,S0799,C021,1,Too difficult.
+R002238,S0800,C008,2,Poor explanations.
+R002239,S0800,C026,3,Not bad.
+R002240,S0800,C030,2,I couldn't finish it.
+R002241,S0801,C033,2,Needs more examples.
+R002242,S0801,C018,4,Amazing explanations.
+R002243,S0802,C022,4,Very informative.
+R002244,S0802,C028,3,Useful but needs updates.
+R002245,S0803,C018,1,Content is outdated.
+R002246,S0803,C010,2,I couldn't finish it.
+R002247,S0804,C023,3,Useful but needs updates.
+R002248,S0804,C010,3,Could be improved.
+R002249,S0804,C029,4,Helpful overall.
+R002250,S0804,C021,3,Could be improved.
+R002251,S0805,C004,3,Content was okay.
+R002252,S0805,C016,2,Not recommended.
+R002253,S0806,C033,3,Useful but needs updates.
+R002254,S0806,C021,5,Loved this course.
+R002255,S0807,C015,4,Fantastic content.
+R002256,S0807,C002,2,I couldn't finish it.
+R002257,S0808,C031,3,Good course.
+R002258,S0808,C006,2,Very confusing.
+R002259,S0808,C007,3,Average experience.
+R002260,S0808,C024,2,I couldn't finish it.
+R002261,S0808,C009,2,Very confusing.
+R002262,S0809,C007,4,Could be improved.
+R002263,S0809,C022,1,Not recommended.
+R002264,S0810,C010,4,Content was okay.
+R002265,S0810,C027,3,Good course.
+R002266,S0810,C025,3,Some lessons were useful.
+R002267,S0811,C027,1,Poor explanations.
+R002268,S0811,C020,2,Very confusing.
+R002269,S0812,C013,5,Fantastic content.
+R002270,S0812,C021,1,Very confusing.
+R002271,S0812,C001,1,Not recommended.
+R002272,S0813,C024,2,Needs more examples.
+R002273,S0813,C040,3,Some lessons were useful.
+R002274,S0813,C009,1,Not recommended.
+R002275,S0813,C011,4,Amazing explanations.
+R002276,S0813,C012,3,Helpful overall.
+R002277,S0814,C025,1,Too difficult.
+R002278,S0814,C009,4,Practical examples.
+R002279,S0814,C012,2,I couldn't finish it.
+R002280,S0815,C037,3,Some lessons were useful.
+R002281,S0816,C027,3,Average experience.
+R002282,S0816,C028,2,Content is outdated.
+R002283,S0816,C026,2,Too difficult.
+R002284,S0817,C018,4,Could be improved.
+R002285,S0817,C010,4,Easy to understand.
+R002286,S0817,C030,3,Not bad.
+R002287,S0818,C026,2,Poor explanations.
+R002288,S0818,C034,1,Very confusing.
+R002289,S0818,C021,3,Not bad.
+R002290,S0818,C036,1,Poor explanations.
+R002291,S0818,C011,1,Not what I expected.
+R002292,S0819,C024,4,Helpful overall.
+R002293,S0819,C025,3,Useful but needs updates.
+R002294,S0819,C017,1,Not what I expected.
+R002295,S0819,C018,4,Could be improved.
+R002296,S0820,C028,2,Poor explanations.
+R002297,S0821,C017,3,Content was okay.
+R002298,S0821,C022,3,Useful but needs updates.
+R002299,S0822,C001,5,Loved this course.
+R002300,S0822,C012,2,Too difficult.
+R002301,S0822,C021,1,Very confusing.
+R002302,S0822,C010,1,Too difficult.
+R002303,S0822,C013,2,Too difficult.
+R002304,S0823,C008,2,Content is outdated.
+R002305,S0823,C018,3,Useful but needs updates.
+R002306,S0824,C021,3,Good course.
+R002307,S0824,C038,1,Poor explanations.
+R002308,S0824,C013,2,Not what I expected.
+R002309,S0825,C034,1,Very confusing.
+R002310,S0825,C008,1,Needs more examples.
+R002311,S0826,C033,1,I couldn't finish it.
+R002312,S0826,C004,2,Not what I expected.
+R002313,S0826,C003,1,Very confusing.
+R002314,S0826,C021,3,Helpful overall.
+R002315,S0827,C016,3,Helpful overall.
+R002316,S0827,C031,3,Could be improved.
+R002317,S0827,C039,3,Could be improved.
+R002318,S0828,C007,1,I couldn't finish it.
+R002319,S0828,C037,2,Not recommended.
+R002320,S0828,C026,4,Not bad.
+R002321,S0829,C028,2,Poor explanations.
+R002322,S0829,C034,4,Could be improved.
+R002323,S0830,C034,4,Excellent course!
+R002324,S0830,C013,4,Useful but needs updates.
+R002325,S0830,C026,2,Too difficult.
+R002326,S0831,C017,2,I couldn't finish it.
+R002327,S0831,C012,4,Very informative.
+R002328,S0831,C037,1,Very confusing.
+R002329,S0832,C011,2,Content is outdated.
+R002330,S0832,C004,2,Content is outdated.
+R002331,S0832,C023,4,Good course.
+R002332,S0832,C008,4,Practical examples.
+R002333,S0833,C012,4,Content was okay.
+R002334,S0833,C036,3,Helpful overall.
+R002335,S0834,C020,4,Average experience.
+R002336,S0834,C023,4,Worth every minute.
+R002337,S0834,C016,2,Too difficult.
+R002338,S0834,C009,1,Not recommended.
+R002339,S0835,C027,2,Poor explanations.
+R002340,S0835,C012,1,Too difficult.
+R002341,S0836,C038,5,Loved this course.
+R002342,S0836,C003,2,Not what I expected.
+R002343,S0837,C017,2,Poor explanations.
+R002344,S0837,C001,5,Worth every minute.
+R002345,S0837,C031,2,I couldn't finish it.
+R002346,S0838,C035,3,Content was okay.
+R002347,S0838,C028,1,Not recommended.
+R002348,S0838,C036,2,Not recommended.
+R002349,S0839,C013,4,Content was okay.
+R002350,S0840,C013,2,Not what I expected.
+R002351,S0840,C002,2,Content is outdated.
+R002352,S0840,C027,1,Very confusing.
+R002353,S0841,C024,1,I couldn't finish it.
+R002354,S0842,C012,5,Fantastic content.
+R002355,S0842,C037,4,Easy to understand.
+R002356,S0842,C035,5,Loved this course.
+R002357,S0843,C005,1,Needs more examples.
+R002358,S0843,C039,1,Content is outdated.
+R002359,S0843,C002,4,Loved this course.
+R002360,S0844,C005,2,Not what I expected.
+R002361,S0844,C021,2,Not recommended.
+R002362,S0844,C019,3,Helpful overall.
+R002363,S0844,C014,2,Not what I expected.
+R002364,S0844,C033,3,Some lessons were useful.
+R002365,S0845,C021,3,Average experience.
+R002366,S0845,C040,2,I couldn't finish it.
+R002367,S0845,C012,4,Content was okay.
+R002368,S0846,C039,2,Not recommended.
+R002369,S0846,C008,4,Great instructor.
+R002370,S0846,C010,2,Needs more examples.
+R002371,S0846,C040,3,Useful but needs updates.
+R002372,S0847,C031,1,Very confusing.
+R002373,S0847,C027,4,Good course.
+R002374,S0847,C029,4,Excellent course!
+R002375,S0847,C023,4,Some lessons were useful.
+R002376,S0848,C016,2,Very confusing.
+R002377,S0848,C013,3,Helpful overall.
+R002378,S0848,C019,1,Poor explanations.
+R002379,S0848,C025,3,Some lessons were useful.
+R002380,S0849,C033,4,Highly recommended.
+R002381,S0849,C011,3,Helpful overall.
+R002382,S0849,C025,2,Poor explanations.
+R002383,S0849,C015,2,I couldn't finish it.
+R002384,S0850,C014,1,Too difficult.
+R002385,S0850,C003,2,Not what I expected.
+R002386,S0850,C020,5,Worth every minute.
+R002387,S0850,C015,2,I couldn't finish it.
+R002388,S0850,C033,1,I couldn't finish it.
+R002389,S0851,C035,5,Worth every minute.
+R002390,S0851,C040,2,Not what I expected.
+R002391,S0852,C023,3,Content was okay.
+R002392,S0852,C016,2,Poor explanations.
+R002393,S0852,C015,2,Very confusing.
+R002394,S0852,C001,1,Not what I expected.
+R002395,S0853,C015,2,Too difficult.
+R002396,S0853,C013,4,Could be improved.
+R002397,S0853,C010,4,Average experience.
+R002398,S0854,C013,3,Helpful overall.
+R002399,S0854,C038,2,Content is outdated.
+R002400,S0855,C035,1,Needs more examples.
+R002401,S0855,C017,2,Not recommended.
+R002402,S0855,C025,4,Very informative.
+R002403,S0856,C016,3,Helpful overall.
+R002404,S0856,C010,3,Not bad.
+R002405,S0856,C021,1,I couldn't finish it.
+R002406,S0857,C035,3,Useful but needs updates.
+R002407,S0857,C023,2,Not recommended.
+R002408,S0857,C006,1,I couldn't finish it.
+R002409,S0858,C037,3,Helpful overall.
+R002410,S0858,C029,1,Poor explanations.
+R002411,S0858,C015,3,Average experience.
+R002412,S0858,C003,1,I couldn't finish it.
+R002413,S0859,C008,2,Needs more examples.
+R002414,S0859,C027,5,Fantastic content.
+R002415,S0859,C023,3,Could be improved.
+R002416,S0859,C022,3,Useful but needs updates.
+R002417,S0859,C012,4,Some lessons were useful.
+R002418,S0860,C012,5,Practical examples.
+R002419,S0860,C037,2,Content is outdated.
+R002420,S0860,C030,1,Too difficult.
+R002421,S0860,C026,4,Content was okay.
+R002422,S0861,C009,4,Loved this course.
+R002423,S0861,C027,1,Needs more examples.
+R002424,S0861,C037,2,Very confusing.
+R002425,S0862,C003,2,I couldn't finish it.
+R002426,S0862,C034,2,Poor explanations.
+R002427,S0863,C020,1,Very confusing.
+R002428,S0863,C032,1,Too difficult.
+R002429,S0864,C023,3,Useful but needs updates.
+R002430,S0864,C029,3,Helpful overall.
+R002431,S0864,C008,1,Needs more examples.
+R002432,S0865,C002,2,Not what I expected.
+R002433,S0865,C038,3,Average experience.
+R002434,S0865,C029,1,I couldn't finish it.
+R002435,S0865,C024,1,Too difficult.
+R002436,S0866,C037,3,Some lessons were useful.
+R002437,S0866,C018,5,Amazing explanations.
+R002438,S0867,C036,2,Poor explanations.
+R002439,S0867,C021,3,Helpful overall.
+R002440,S0867,C012,5,Excellent course!
+R002441,S0868,C015,4,Very informative.
+R002442,S0868,C020,5,Practical examples.
+R002443,S0868,C035,4,Some lessons were useful.
+R002444,S0868,C017,3,Average experience.
+R002445,S0869,C032,3,Content was okay.
+R002446,S0870,C001,4,Some lessons were useful.
+R002447,S0870,C008,5,Practical examples.
+R002448,S0870,C015,1,Not what I expected.
+R002449,S0870,C020,5,Loved this course.
+R002450,S0870,C026,2,Very confusing.
+R002451,S0871,C030,4,Some lessons were useful.
+R002452,S0871,C036,5,Amazing explanations.
+R002453,S0872,C028,2,Very confusing.
+R002454,S0872,C010,2,Needs more examples.
+R002455,S0873,C009,2,Very confusing.
+R002456,S0873,C020,2,Poor explanations.
+R002457,S0874,C038,3,Content was okay.
+R002458,S0874,C037,1,Too difficult.
+R002459,S0874,C036,4,Some lessons were useful.
+R002460,S0875,C003,2,Needs more examples.
+R002461,S0875,C001,3,Not bad.
+R002462,S0875,C023,1,Very confusing.
+R002463,S0876,C028,1,Too difficult.
+R002464,S0877,C024,1,Content is outdated.
+R002465,S0877,C010,5,Amazing explanations.
+R002466,S0877,C007,2,Too difficult.
+R002467,S0878,C035,1,Not what I expected.
+R002468,S0878,C012,2,Content is outdated.
+R002469,S0878,C015,2,Not what I expected.
+R002470,S0879,C006,5,Practical examples.
+R002471,S0879,C028,5,Great instructor.
+R002472,S0879,C030,5,Easy to understand.
+R002473,S0880,C025,2,I couldn't finish it.
+R002474,S0880,C010,2,Needs more examples.
+R002475,S0880,C006,2,Content is outdated.
+R002476,S0881,C025,2,I couldn't finish it.
+R002477,S0881,C024,5,Fantastic content.
+R002478,S0882,C020,2,Not recommended.
+R002479,S0883,C013,2,Not what I expected.
+R002480,S0883,C012,1,Needs more examples.
+R002481,S0883,C037,5,Great instructor.
+R002482,S0883,C004,2,Needs more examples.
+R002483,S0885,C007,4,Some lessons were useful.
+R002484,S0885,C009,4,Good course.
+R002485,S0885,C035,3,Average experience.
+R002486,S0886,C030,4,Excellent course!
+R002487,S0886,C032,2,Too difficult.
+R002488,S0887,C007,1,I couldn't finish it.
+R002489,S0888,C006,1,Needs more examples.
+R002490,S0889,C001,3,Content was okay.
+R002491,S0889,C034,5,Easy to understand.
+R002492,S0890,C025,2,I couldn't finish it.
+R002493,S0890,C011,3,Some lessons were useful.
+R002494,S0890,C023,5,Worth every minute.
+R002495,S0890,C030,1,Poor explanations.
+R002496,S0891,C012,2,Too difficult.
+R002497,S0891,C036,2,Content is outdated.
+R002498,S0891,C022,5,Fantastic content.
+R002499,S0892,C008,2,Content is outdated.
+R002500,S0892,C017,1,Poor explanations.
+R002501,S0892,C025,2,I couldn't finish it.
+R002502,S0892,C012,3,Content was okay.
+R002503,S0893,C003,3,Could be improved.
+R002504,S0893,C015,3,Average experience.
+R002505,S0894,C036,2,I couldn't finish it.
+R002506,S0894,C027,1,Poor explanations.
+R002507,S0895,C031,2,Needs more examples.
+R002508,S0895,C014,4,Content was okay.
+R002509,S0895,C017,4,Very informative.
+R002510,S0896,C003,3,Useful but needs updates.
+R002511,S0897,C034,3,Content was okay.
+R002512,S0897,C019,5,Great instructor.
+R002513,S0897,C028,2,Poor explanations.
+R002514,S0900,C025,2,Not what I expected.
+R002515,S0900,C038,3,Could be improved.
+R002516,S0900,C040,3,Helpful overall.
+R002517,S0900,C039,1,Needs more examples.
+R002518,S0900,C007,3,Good course.
+R002519,S0901,C013,5,Easy to understand.
+R002520,S0901,C037,2,Too difficult.
+R002521,S0901,C036,3,Some lessons were useful.
+R002522,S0901,C026,5,Fantastic content.
+R002523,S0901,C003,5,Very informative.
+R002524,S0902,C024,3,Useful but needs updates.
+R002525,S0902,C017,2,Too difficult.
+R002526,S0903,C016,2,Not what I expected.
+R002527,S0903,C011,2,Very confusing.
+R002528,S0903,C022,1,Very confusing.
+R002529,S0904,C032,1,Not recommended.
+R002530,S0904,C028,1,Poor explanations.
+R002531,S0904,C004,3,Helpful overall.
+R002532,S0905,C027,3,Could be improved.
+R002533,S0905,C030,4,Very informative.
+R002534,S0906,C019,1,Too difficult.
+R002535,S0906,C035,2,Too difficult.
+R002536,S0906,C023,5,Great instructor.
+R002537,S0906,C010,3,Useful but needs updates.
+R002538,S0907,C005,1,Too difficult.
+R002539,S0907,C038,2,Too difficult.
+R002540,S0907,C024,2,Poor explanations.
+R002541,S0907,C032,1,I couldn't finish it.
+R002542,S0908,C037,2,Content is outdated.
+R002543,S0908,C014,2,Very confusing.
+R002544,S0909,C036,3,Good course.
+R002545,S0909,C037,4,Loved this course.
+R002546,S0910,C031,5,Highly recommended.
+R002547,S0910,C009,3,Content was okay.
+R002548,S0911,C033,2,Needs more examples.
+R002549,S0911,C029,1,Needs more examples.
+R002550,S0911,C040,2,Poor explanations.
+R002551,S0911,C028,1,Needs more examples.
+R002552,S0911,C034,4,Excellent course!
+R002553,S0912,C028,2,Not recommended.
+R002554,S0912,C008,1,Needs more examples.
+R002555,S0914,C039,1,Content is outdated.
+R002556,S0915,C020,1,Not what I expected.
+R002557,S0915,C029,5,Fantastic content.
+R002558,S0916,C040,1,I couldn't finish it.
+R002559,S0916,C033,2,Not recommended.
+R002560,S0916,C038,3,Useful but needs updates.
+R002561,S0917,C016,1,Not what I expected.
+R002562,S0917,C028,2,Content is outdated.
+R002563,S0917,C026,2,I couldn't finish it.
+R002564,S0917,C037,4,Loved this course.
+R002565,S0917,C032,1,Needs more examples.
+R002566,S0918,C030,3,Could be improved.
+R002567,S0918,C039,5,Great instructor.
+R002568,S0918,C004,1,Content is outdated.
+R002569,S0918,C015,3,Could be improved.
+R002570,S0919,C036,3,Good course.
+R002571,S0919,C016,4,Average experience.
+R002572,S0920,C040,3,Not bad.
+R002573,S0920,C021,2,Not what I expected.
+R002574,S0920,C019,2,Not recommended.
+R002575,S0921,C032,2,Too difficult.
+R002576,S0921,C026,4,Useful but needs updates.
+R002577,S0922,C031,2,Very confusing.
+R002578,S0923,C006,3,Some lessons were useful.
+R002579,S0923,C010,3,Some lessons were useful.
+R002580,S0924,C017,1,Not recommended.
+R002581,S0924,C014,1,I couldn't finish it.
+R002582,S0924,C036,1,Poor explanations.
+R002583,S0925,C018,2,Too difficult.
+R002584,S0925,C008,5,Practical examples.
+R002585,S0925,C022,2,Poor explanations.
+R002586,S0925,C017,2,Not what I expected.
+R002587,S0925,C036,3,Not bad.
+R002588,S0926,C030,1,Poor explanations.
+R002589,S0926,C031,2,I couldn't finish it.
+R002590,S0927,C007,4,Amazing explanations.
+R002591,S0927,C033,1,Needs more examples.
+R002592,S0927,C009,2,Too difficult.
+R002593,S0927,C038,5,Practical examples.
+R002594,S0927,C036,2,Very confusing.
+R002595,S0928,C027,5,Worth every minute.
+R002596,S0928,C010,2,Needs more examples.
+R002597,S0929,C011,4,Could be improved.
+R002598,S0929,C008,4,Fantastic content.
+R002599,S0929,C022,4,Excellent course!
+R002600,S0929,C019,1,I couldn't finish it.
+R002601,S0930,C011,1,Needs more examples.
+R002602,S0930,C006,5,Easy to understand.
+R002603,S0930,C007,5,Very informative.
+R002604,S0930,C013,2,Very confusing.
+R002605,S0930,C017,2,Not recommended.
+R002606,S0931,C003,3,Could be improved.
+R002607,S0931,C037,1,Too difficult.
+R002608,S0931,C005,3,Content was okay.
+R002609,S0932,C003,4,Very informative.
+R002610,S0932,C001,5,Amazing explanations.
+R002611,S0932,C021,2,Not what I expected.
+R002612,S0933,C033,1,Needs more examples.
+R002613,S0933,C005,2,Too difficult.
+R002614,S0933,C022,1,Poor explanations.
+R002615,S0934,C022,4,Fantastic content.
+R002616,S0934,C003,1,Too difficult.
+R002617,S0934,C035,2,Needs more examples.
+R002618,S0935,C029,1,Not what I expected.
+R002619,S0935,C017,1,Not recommended.
+R002620,S0935,C035,1,Content is outdated.
+R002621,S0935,C001,2,Content is outdated.
+R002622,S0935,C004,1,Content is outdated.
+R002623,S0936,C028,2,Not recommended.
+R002624,S0936,C022,3,Good course.
+R002625,S0936,C006,2,Needs more examples.
+R002626,S0937,C014,5,Fantastic content.
+R002627,S0937,C010,1,Not recommended.
+R002628,S0938,C013,3,Content was okay.
+R002629,S0938,C014,3,Some lessons were useful.
+R002630,S0939,C002,5,Worth every minute.
+R002631,S0939,C024,2,Poor explanations.
+R002632,S0940,C037,1,I couldn't finish it.
+R002633,S0940,C003,2,Poor explanations.
+R002634,S0941,C013,1,Very confusing.
+R002635,S0941,C014,2,Too difficult.
+R002636,S0941,C019,3,Average experience.
+R002637,S0941,C007,2,Very confusing.
+R002638,S0941,C036,1,Content is outdated.
+R002639,S0942,C019,4,Excellent course!
+R002640,S0942,C018,3,Average experience.
+R002641,S0942,C038,2,Poor explanations.
+R002642,S0943,C026,5,Easy to understand.
+R002643,S0943,C007,3,Helpful overall.
+R002644,S0943,C006,2,Too difficult.
+R002645,S0943,C022,3,Helpful overall.
+R002646,S0944,C028,4,Excellent course!
+R002647,S0944,C019,1,Not recommended.
+R002648,S0945,C004,2,Poor explanations.
+R002649,S0945,C005,3,Not bad.
+R002650,S0945,C040,4,Loved this course.
+R002651,S0946,C040,3,Could be improved.
+R002652,S0946,C008,2,Too difficult.
+R002653,S0946,C001,5,Loved this course.
+R002654,S0946,C014,1,Not recommended.
+R002655,S0946,C021,1,Poor explanations.
+R002656,S0947,C025,4,Amazing explanations.
+R002657,S0947,C014,3,Content was okay.
+R002658,S0947,C031,4,Helpful overall.
+R002659,S0948,C040,2,Content is outdated.
+R002660,S0948,C001,2,Poor explanations.
+R002661,S0948,C026,5,Practical examples.
+R002662,S0948,C030,1,Needs more examples.
+R002663,S0949,C008,4,Easy to understand.
+R002664,S0949,C011,2,Not recommended.
+R002665,S0949,C036,1,Content is outdated.
+R002666,S0949,C006,1,Needs more examples.
+R002667,S0950,C033,2,Content is outdated.
